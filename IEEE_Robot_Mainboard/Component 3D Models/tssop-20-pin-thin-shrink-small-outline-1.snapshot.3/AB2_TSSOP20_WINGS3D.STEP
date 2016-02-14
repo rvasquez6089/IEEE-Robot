@@ -1,0 +1,43 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('AB2_TSSOP20_WINGS3D.STEP',
+    '2016-02-14T05:24:20',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2014',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #6 ) ) ;
+#2 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #15, 'design' ) ;
+#3 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #15 ) ;
+#4 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #14 ) ;
+#5 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #26, #2 ) ;
+#6 = PRODUCT ( 'AB2_TSSOP20_WINGS3D', 'AB2_TSSOP20_WINGS3D', '', ( #9 ) ) ;
+#7 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #12, #25 ) ;
+#8 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#9 = PRODUCT_CONTEXT ( 'NONE', #14, 'mechanical' ) ;
+#10 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #8 ) ;
+#11 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #5 ) ;
+#12 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #6, .NOT_KNOWN. ) ;
+#13 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #22 ) ;
+#14 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#15 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#16 = PRODUCT ( 'AB2_TSSOP20_WINGS3D', 'AB2_TSSOP20_WINGS3D', '', ( #24 ) ) ;
+#17 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #7 ) ;
+#18 = CARTESIAN_POINT ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#19 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#20 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#21 = AXIS2_PLACEMENT_3D ( 'NONE', #18, #20, #19 ) ;
+#22 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#23 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #16 ) ) ;
+#24 = PRODUCT_CONTEXT ( 'NONE', #22, 'mechanical' ) ;
+#25 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #8, 'design' ) ;
+#26 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #16, .NOT_KNOWN. ) ;
+ENDSEC;
+END-ISO-10303-21;
