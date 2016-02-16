@@ -1,0 +1,96 @@
+Added Component: Designator=C1(NICH 6.3mm 7.7mm)
+Added Component: Designator=C2(0805C-GENERIC)
+Added Component: Designator=C3(0603C-GENERIC)
+Added Component: Designator=C4(0603C-GENERIC)
+Added Component: Designator=C5(0603C-GENERIC)
+Added Component: Designator=Q1(1212-8 PowerPAK Single)
+Added Component: Designator=Q2(1212-8 PowerPAK Single)
+Added Component: Designator=Q3(1212-8 PowerPAK Single)
+Added Component: Designator=Q4(1212-8 PowerPAK Single)
+Added Component: Designator=R1(0603R-GENERIC)
+Added Component: Designator=R2(0603R-GENERIC)
+Added Component: Designator=R3(RESC_2512)
+Added Component: Designator=U1(QFN-20)
+Added Pin To Net: NetName=GND Pin=C1--
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=C2-1
+Added Pin To Net: NetName=NetC1_+ Pin=C5-2
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=U1-12
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-11
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-13
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-20
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-10
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=U1-6
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ1_S Pin=Q1-S
+Added Pin To Net: NetName=NetQ1_S Pin=Q1-S
+Added Pin To Net: NetName=NetQ1_S Pin=Q1-S
+Added Pin To Net: NetName=NetQ1_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ1_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ1_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ1_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ1_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ1_S Pin=U1-7
+Added Net: Name=NetQ1_S
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_G Pin=U1-8
+Added Net: Name=NetQ2_G
+Added Pin To Net: NetName=NetQ2_S Pin=Q2-S
+Added Pin To Net: NetName=NetQ2_S Pin=Q2-S
+Added Pin To Net: NetName=NetQ2_S Pin=Q2-S
+Added Pin To Net: NetName=NetQ2_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ2_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ2_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ2_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ2_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ2_S Pin=U1-9
+Added Net: Name=NetQ2_S
+Added Pin To Net: NetName=NetQ3_G Pin=Q3-G
+Added Pin To Net: NetName=NetQ3_G Pin=U1-4
+Added Net: Name=NetQ3_G
+Added Pin To Net: NetName=NetQ3_S Pin=Q3-S
+Added Pin To Net: NetName=NetQ3_S Pin=Q3-S
+Added Pin To Net: NetName=NetQ3_S Pin=Q3-S
+Added Pin To Net: NetName=NetQ3_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ3_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ3_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ3_S Pin=R3-1
+Added Pin To Net: NetName=NetQ3_S Pin=U1-3
+Added Net: Name=NetQ3_S
+Added Pin To Net: NetName=NetQ4_G Pin=Q4-G
+Added Pin To Net: NetName=NetQ4_G Pin=U1-5
+Added Net: Name=NetQ4_G
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Class: Name=Motor_Control
+Added Room: Name=Motor_Control
