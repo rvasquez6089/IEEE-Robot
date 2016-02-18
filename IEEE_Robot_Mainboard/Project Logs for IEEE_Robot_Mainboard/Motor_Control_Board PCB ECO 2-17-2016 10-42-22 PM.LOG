@@ -1,0 +1,106 @@
+Added Component: Designator=C6(NICH 6.3mm 7.7mm)
+Added Component: Designator=C7(0805C-GENERIC)
+Added Component: Designator=C8(0603C-GENERIC)
+Added Component: Designator=C9(0603C-GENERIC)
+Added Component: Designator=C10(0603C-GENERIC)
+Added Component: Designator=Q5(1212-8 PowerPAK Single)
+Added Component: Designator=Q6(1212-8 PowerPAK Single)
+Added Component: Designator=Q7(1212-8 PowerPAK Single)
+Added Component: Designator=Q8(1212-8 PowerPAK Single)
+Added Component: Designator=R4(0603R-GENERIC)
+Added Component: Designator=R5(0603R-GENERIC)
+Added Component: Designator=R6(RESC_2512)
+Added Component: Designator=U2(QFN-20)
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=GND Pin=C1--
+Added Pin To Net: NetName=NetC1_+ Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC1_+ Pin=C5-2
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q1-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-D
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetC1_+ Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=NetC8_1 Pin=C3-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-11
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C3-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-13
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C4-1
+Added Pin To Net: NetName=NetC9_1 Pin=R2-1
+Added Pin To Net: NetName=NetC9_1 Pin=U1-20
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C5-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-10
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetQ5_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ5_G Pin=U1-6
+Added Net: Name=NetQ5_G
+Added Pin To Net: NetName=NetQ5_S Pin=Q1-S
+Added Pin To Net: NetName=NetQ5_S Pin=Q1-S
+Added Pin To Net: NetName=NetQ5_S Pin=Q1-S
+Added Pin To Net: NetName=NetQ5_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ5_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ5_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ5_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ5_S Pin=Q3-D
+Added Pin To Net: NetName=NetQ5_S Pin=U1-7
+Added Net: Name=NetQ5_S
+Added Pin To Net: NetName=NetQ6_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ6_G Pin=U1-8
+Added Net: Name=NetQ6_G
+Added Pin To Net: NetName=NetQ6_S Pin=Q2-S
+Added Pin To Net: NetName=NetQ6_S Pin=Q2-S
+Added Pin To Net: NetName=NetQ6_S Pin=Q2-S
+Added Pin To Net: NetName=NetQ6_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ6_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ6_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ6_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ6_S Pin=Q4-D
+Added Pin To Net: NetName=NetQ6_S Pin=U1-9
+Added Net: Name=NetQ6_S
+Added Pin To Net: NetName=NetQ7_G Pin=Q3-G
+Added Pin To Net: NetName=NetQ7_G Pin=U1-4
+Added Net: Name=NetQ7_G
+Added Pin To Net: NetName=NetQ7_S Pin=Q3-S
+Added Pin To Net: NetName=NetQ7_S Pin=Q3-S
+Added Pin To Net: NetName=NetQ7_S Pin=Q3-S
+Added Pin To Net: NetName=NetQ7_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ7_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ7_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ7_S Pin=R3-1
+Added Pin To Net: NetName=NetQ7_S Pin=U1-3
+Added Net: Name=NetQ7_S
+Added Pin To Net: NetName=NetQ8_G Pin=Q4-G
+Added Pin To Net: NetName=NetQ8_G Pin=U1-5
+Added Net: Name=NetQ8_G
+Added Pin To Net: NetName=NetR4_2 Pin=R1-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-1
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=Motor_Control Member=Component C6 UUD1C221MCL1GS
+Added Member To Class: ClassName=Motor_Control Member=Component C7 10uF
+Added Member To Class: ClassName=Motor_Control Member=Component C8 100nF
+Added Member To Class: ClassName=Motor_Control Member=Component C9 1nF
+Added Member To Class: ClassName=Motor_Control Member=Component C10 100nF
+Added Member To Class: ClassName=Motor_Control Member=Component Q5 SIS406DN
+Added Member To Class: ClassName=Motor_Control Member=Component Q6 SIS406DN
+Added Member To Class: ClassName=Motor_Control Member=Component Q7 SIS406DN
+Added Member To Class: ClassName=Motor_Control Member=Component Q8 SIS406DN
+Added Member To Class: ClassName=Motor_Control Member=Component R4 20K
+Added Member To Class: ClassName=Motor_Control Member=Component R5 20K
+Added Member To Class: ClassName=Motor_Control Member=Component R6 WSL2512R0150FEA18
+Added Member To Class: ClassName=Motor_Control Member=Component U2 A4956
+Added Room: Name=Motor_Control
