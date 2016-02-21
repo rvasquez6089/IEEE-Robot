@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=Motor_Control.SchDoc
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MC1|SchDesignator=REPEAT(MC,1,4)|FileName=Motor_Control.SchDoc|SymbolType=Normal|RawFileName=Motor_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MC2|SchDesignator=REPEAT(MC,1,4)|FileName=Motor_Control.SchDoc|SymbolType=Normal|RawFileName=Motor_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MC3|SchDesignator=REPEAT(MC,1,4)|FileName=Motor_Control.SchDoc|SymbolType=Normal|RawFileName=Motor_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MC4|SchDesignator=REPEAT(MC,1,4)|FileName=Motor_Control.SchDoc|SymbolType=Normal|RawFileName=Motor_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
