@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OWAMXRDS
 
 [Document7]
 DocumentPath=TI 5V 5A Design\2016-02-21_13-02-55.SchLib

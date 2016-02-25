@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=J18 Old DesignItemId=CONN_2_JST_S2B-XH-A New DesignItemId=CONN_2_JST B2B-XH-A
+Change Component DesignItemId : Designator=J19 Old DesignItemId=CONN_2_JST_S2B-XH-A New DesignItemId=CONN_2_JST B2B-XH-A
+Change Component DesignItemId : Designator=J20 Old DesignItemId=CONN_2_JST_S2B-XH-A New DesignItemId=CONN_2_JST B2B-XH-A
+Change Component DesignItemId : Designator=J21 Old DesignItemId=CONN_2_JST_S2B-XH-A New DesignItemId=CONN_2_JST B2B-XH-A
+Change Component DesignItemId : Designator=J22 Old DesignItemId=CONN_2_JST_S2B-XH-A New DesignItemId=CONN_2_JST B2B-XH-A
+Change Component DesignItemId : Designator=J23 Old DesignItemId=CONN_2_JST_S2B-XH-A New DesignItemId=CONN_2_JST B2B-XH-A
+Change Component Footprint: Designator=J18 Old Footprint=CONN_JST_XH_TH_RIGHT_2 New Footprint=CONN_JST_XT_TH_2
+Change Component Footprint: Designator=J19 Old Footprint=CONN_JST_XH_TH_RIGHT_2 New Footprint=CONN_JST_XT_TH_2
+Change Component Footprint: Designator=J20 Old Footprint=CONN_JST_XH_TH_RIGHT_2 New Footprint=CONN_JST_XT_TH_2
+Change Component Footprint: Designator=J21 Old Footprint=CONN_JST_XH_TH_RIGHT_2 New Footprint=CONN_JST_XT_TH_2
+Change Component Footprint: Designator=J22 Old Footprint=CONN_JST_XH_TH_RIGHT_2 New Footprint=CONN_JST_XT_TH_2
+Change Component Footprint: Designator=J23 Old Footprint=CONN_JST_XH_TH_RIGHT_2 New Footprint=CONN_JST_XT_TH_2
+Change Component Comment : Designator=J18 Old Comment=CONN_2_JST_S2B-XH-A New Comment=CONN_2_JST B2B-XH-A
+Change Component Comment : Designator=J19 Old Comment=CONN_2_JST_S2B-XH-A New Comment=CONN_2_JST B2B-XH-A
+Change Component Comment : Designator=J20 Old Comment=CONN_2_JST_S2B-XH-A New Comment=CONN_2_JST B2B-XH-A
+Change Component Comment : Designator=J21 Old Comment=CONN_2_JST_S2B-XH-A New Comment=CONN_2_JST B2B-XH-A
+Change Component Comment : Designator=J22 Old Comment=CONN_2_JST_S2B-XH-A New Comment=CONN_2_JST B2B-XH-A
+Change Component Comment : Designator=J23 Old Comment=CONN_2_JST_S2B-XH-A New Comment=CONN_2_JST B2B-XH-A
+Added Room: Name=Main
+Added Room: Name=MC1
+Added Room: Name=MC2
+Added Room: Name=MC3
+Added Room: Name=MC4
+Added Room: Name=Power_Supply
