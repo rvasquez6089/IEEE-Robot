@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C13--
+Removed Pin From Net: NetName=GND Pin=C36-+
+Removed Pin From Net: NetName=GND Pin=C38-+
+Removed Pin From Net: NetName=GND Pin=C39-+
+Removed Pin From Net: NetName=GND Pin=C40-+
+Removed Pin From Net: NetName=GND Pin=C41-+
+Removed Pin From Net: NetName=GND Pin=J18-1
+Removed Pin From Net: NetName=GND Pin=J19-1
+Removed Pin From Net: NetName=GND Pin=J20-1
+Removed Pin From Net: NetName=GND Pin=J21-1
+Removed Pin From Net: NetName=GND Pin=J22-1
+Removed Pin From Net: NetName=GND Pin=J23-1
+Removed Pin From Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VBAT Pin=C13--
+Added Pin To Net: NetName=VBAT Pin=C36-+
+Added Pin To Net: NetName=VBAT Pin=C36--
+Added Pin To Net: NetName=VBAT Pin=C38-+
+Added Pin To Net: NetName=VBAT Pin=C38--
+Added Pin To Net: NetName=VBAT Pin=C39-+
+Added Pin To Net: NetName=VBAT Pin=C39--
+Added Pin To Net: NetName=VBAT Pin=C40-+
+Added Pin To Net: NetName=VBAT Pin=C40--
+Added Pin To Net: NetName=VBAT Pin=C41-+
+Added Pin To Net: NetName=VBAT Pin=C41--
+Added Pin To Net: NetName=VBAT Pin=J18-1
+Added Pin To Net: NetName=VBAT Pin=J19-1
+Added Pin To Net: NetName=VBAT Pin=J20-1
+Added Pin To Net: NetName=VBAT Pin=J21-1
+Added Pin To Net: NetName=VBAT Pin=J22-1
+Added Pin To Net: NetName=VBAT Pin=J23-1
+Added Pin To Net: NetName=VBAT Pin=U6-1
+Added Member To Class: ClassName=Main Member=Component A0 Jumper
+Added Member To Class: ClassName=Main Member=Component A1 Jumper
+Added Member To Class: ClassName=Main Member=Component A2 Jumper
+Added Member To Class: ClassName=Power_Supply Member=Component C36 UUD1C221MCL1GS

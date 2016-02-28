@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=A0 NewDesignator=A6
+Change Component Designator: OldDesignator=A1 NewDesignator=A7
+Change Component Designator: OldDesignator=A2 NewDesignator=A8
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C36 NewDesignator=C38
+Change Component Designator: OldDesignator=C36 NewDesignator=C39
+Change Component Designator: OldDesignator=C36 NewDesignator=C40
+Change Component Designator: OldDesignator=C36 NewDesignator=C41
+Added Pin To Net: NetName=GND Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C38-+
+Added Pin To Net: NetName=GND Pin=C39-+
+Added Pin To Net: NetName=GND Pin=C40-+
+Change Net Name : Old Net Name=NetA0_1 New Net Name=NetA6_1
+Change Net Name : Old Net Name=NetA1_1 New Net Name=NetA7_1
+Change Net Name : Old Net Name=NetA2_1 New Net Name=NetA8_1
+Added Pin To Net: NetName=NetA0_1 Pin=A0-1
+Added Pin To Net: NetName=NetA0_1 Pin=R27-1
+Added Pin To Net: NetName=NetA0_1 Pin=U3-1
+Added Net: Name=NetA0_1
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=R24-1
+Added Pin To Net: NetName=NetA1_1 Pin=U3-2
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=NetA2_1 Pin=R17-1
+Added Pin To Net: NetName=NetA2_1 Pin=U3-3
+Added Net: Name=NetA2_1
+Added Member To Class: ClassName=Main Member=Component A6 Jumper
+Added Member To Class: ClassName=Main Member=Component A7 Jumper
+Added Member To Class: ClassName=Main Member=Component A8 Jumper
+Added Member To Class: ClassName=Power_Supply Member=Component C37 UUD1C221MCL1GS
+Added Member To Class: ClassName=Power_Supply Member=Component C38 UUD1C221MCL1GS
+Added Member To Class: ClassName=Power_Supply Member=Component C39 UUD1C221MCL1GS
+Added Member To Class: ClassName=Power_Supply Member=Component C40 UUD1C221MCL1GS
+Added Member To Class: ClassName=Power_Supply Member=Component C41 UUD1C221MCL1GS
+Added Room: Name=Main
+Added Room: Name=MC1
+Added Room: Name=MC2
+Added Room: Name=MC3
+Added Room: Name=MC4
+Added Room: Name=Power_Supply

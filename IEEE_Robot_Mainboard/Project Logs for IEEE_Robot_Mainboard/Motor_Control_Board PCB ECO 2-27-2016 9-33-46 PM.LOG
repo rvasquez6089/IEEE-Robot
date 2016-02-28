@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=D1 Old Footprint=SMA New Footprint=SMA
+Change Physical Footprint: Designator=Q5 Old Footprint=TRANS_NEXFET_Q3A New Footprint=TRANS_NEXFET_Q3A
+Change Physical Footprint: Designator=R19 Old Footprint=1206 New Footprint=1206
+Change Physical Footprint: Designator=U5 Old Footprint=MUY08A New Footprint=MUY08A

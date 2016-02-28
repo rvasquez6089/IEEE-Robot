@@ -1,0 +1,14 @@
+Added Component: Designator=C36(NICH 6.3mm 7.7mm)
+Added Component: Designator=C36(NICH 6.3mm 7.7mm)
+Added Component: Designator=C36(NICH 6.3mm 7.7mm)
+Added Component: Designator=C36(NICH 6.3mm 7.7mm)
+Added Component: Designator=C36(NICH 6.3mm 7.7mm)
+Added Pin To Net: NetName=GND Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C36-+
+Added Member To Class: ClassName=Main Member=Component MTR0 B08B-PNDZS-1
+Added Member To Class: ClassName=Main Member=Component MTR1 B08B-PNDZS-1
+Added Member To Class: ClassName=Main Member=Component MTR2 B08B-PNDZS-1
+Added Member To Class: ClassName=Main Member=Component MTR3 B08B-PNDZS-1

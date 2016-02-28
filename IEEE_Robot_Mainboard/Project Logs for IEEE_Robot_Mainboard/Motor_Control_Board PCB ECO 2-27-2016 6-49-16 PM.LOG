@@ -1,0 +1,151 @@
+Removed Pin From Net: NetName=MODE0 Pin=J1-1
+Removed Pin From Net: NetName=3.3V Pin=J1-2
+Removed Pin From Net: NetName=MODE1 Pin=J2-1
+Removed Pin From Net: NetName=3.3V Pin=J2-2
+Removed Pin From Net: NetName=MODE2 Pin=J3-1
+Removed Pin From Net: NetName=3.3V Pin=J3-2
+Removed Pin From Net: NetName=MODE3 Pin=J4-1
+Removed Pin From Net: NetName=3.3V Pin=J4-2
+Removed Pin From Net: NetName=3.3V Pin=J9-2
+Removed Pin From Net: NetName=3.3V Pin=J11-2
+Removed Pin From Net: NetName=3.3V Pin=J12-2
+Removed Pin From Net: NetName=3.3V Pin=J13-2
+Removed Pin From Net: NetName=3.3V Pin=J14-2
+Removed Pin From Net: NetName=3.3V Pin=J15-2
+Removed Member From Class: ClassName=Main Member=J1
+Removed Member From Class: ClassName=Main Member=J2
+Removed Member From Class: ClassName=Main Member=J3
+Removed Member From Class: ClassName=Main Member=J4
+Removed Member From Class: ClassName=Main Member=J9
+Removed Member From Class: ClassName=Main Member=J11
+Removed Member From Class: ClassName=Main Member=J12
+Removed Member From Class: ClassName=Main Member=J13
+Removed Member From Class: ClassName=Main Member=J14
+Removed Member From Class: ClassName=Main Member=J15
+Removed Member From Class: ClassName=Main Member=MTR0
+Removed Member From Class: ClassName=Main Member=MTR1
+Removed Member From Class: ClassName=Main Member=MTR2
+Removed Member From Class: ClassName=Main Member=MTR3
+Change Component DesignItemId : Designator=J5 Old DesignItemId=JUMP1 New DesignItemId=JST PND 8 PIN
+Change Component DesignItemId : Designator=J6 Old DesignItemId=JUMP1 New DesignItemId=JST PND 8 PIN
+Change Component DesignItemId : Designator=J7 Old DesignItemId=JUMP1 New DesignItemId=JST PND 8 PIN
+Change Component DesignItemId : Designator=J10 Old DesignItemId=JUMP1 New DesignItemId=JST PND 8 PIN
+Change Component Footprint: Designator=J5 Old Footprint=JUMP1 New Footprint=JST PND 8 Pin
+Change Component Footprint: Designator=J6 Old Footprint=JUMP1 New Footprint=JST PND 8 Pin
+Change Component Footprint: Designator=J7 Old Footprint=JUMP1 New Footprint=JST PND 8 Pin
+Change Component Footprint: Designator=J10 Old Footprint=JUMP1 New Footprint=JST PND 8 Pin
+Change Component Comment : Designator=J5 Old Comment=Jumper New Comment=B08B-PNDZS-1
+Change Component Comment : Designator=J6 Old Comment=Jumper New Comment=B08B-PNDZS-1
+Change Component Comment : Designator=J7 Old Comment=Jumper New Comment=B08B-PNDZS-1
+Change Component Comment : Designator=J10 Old Comment=Jumper New Comment=B08B-PNDZS-1
+Change Component Designator: OldDesignator=J5 NewDesignator=MTR0
+Change Component Designator: OldDesignator=J6 NewDesignator=MTR1
+Change Component Designator: OldDesignator=J7 NewDesignator=MTR2
+Change Component Designator: OldDesignator=J10 NewDesignator=MTR3
+Change Component Designator: OldDesignator=J24 NewDesignator=EN_LV_TRANS
+Change Component Kind : Designator=MTR3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=MTR2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=MTR1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=MTR0 Old Kind=Standard (No BOM) New Kind=Standard
+Added Component: Designator=A0(JUMP1)
+Added Component: Designator=A0(JUMP1)
+Added Component: Designator=A1(JUMP1)
+Added Component: Designator=A1(JUMP1)
+Added Component: Designator=A2(JUMP1)
+Added Component: Designator=A2(JUMP1)
+Added Component: Designator=A3(JUMP1)
+Added Component: Designator=A4(JUMP1)
+Added Component: Designator=A5(JUMP1)
+Added Component: Designator=MODE0(JUMP1)
+Added Component: Designator=MODE1(JUMP1)
+Added Component: Designator=MODE2(JUMP1)
+Added Component: Designator=MODE3(JUMP1)
+Added Component: Designator=OE(JUMP1)
+Added Pin To Net: NetName=3.3V Pin=A0-2
+Added Pin To Net: NetName=3.3V Pin=A0-2
+Added Pin To Net: NetName=3.3V Pin=A1-2
+Added Pin To Net: NetName=3.3V Pin=A1-2
+Added Pin To Net: NetName=3.3V Pin=A2-2
+Added Pin To Net: NetName=3.3V Pin=A2-2
+Added Pin To Net: NetName=3.3V Pin=A3-2
+Added Pin To Net: NetName=3.3V Pin=A4-2
+Added Pin To Net: NetName=3.3V Pin=A5-2
+Added Pin To Net: NetName=MODE0 Pin=MODE0-1
+Added Pin To Net: NetName=3.3V Pin=MODE0-2
+Added Pin To Net: NetName=MODE1 Pin=MODE1-1
+Added Pin To Net: NetName=3.3V Pin=MODE1-2
+Added Pin To Net: NetName=MODE2 Pin=MODE2-1
+Added Pin To Net: NetName=3.3V Pin=MODE2-2
+Added Pin To Net: NetName=MODE3 Pin=MODE3-1
+Added Pin To Net: NetName=3.3V Pin=MODE3-2
+Added Pin To Net: NetName=B_OUT0 Pin=MTR0-1
+Added Pin To Net: NetName=B_OUT0 Pin=MTR0-3
+Added Pin To Net: NetName=GND Pin=MTR0-4
+Added Pin To Net: NetName=A_OUT0 Pin=MTR0-5
+Added Pin To Net: NetName=B_ENC0 Pin=MTR0-6
+Added Pin To Net: NetName=A_OUT0 Pin=MTR0-7
+Added Pin To Net: NetName=A_ENC0 Pin=MTR0-8
+Added Pin To Net: NetName=B_OUT1 Pin=MTR1-1
+Added Pin To Net: NetName=B_OUT1 Pin=MTR1-3
+Added Pin To Net: NetName=GND Pin=MTR1-4
+Added Pin To Net: NetName=A_OUT1 Pin=MTR1-5
+Added Pin To Net: NetName=B_ENC1 Pin=MTR1-6
+Added Pin To Net: NetName=A_OUT1 Pin=MTR1-7
+Added Pin To Net: NetName=A_ENC1 Pin=MTR1-8
+Added Pin To Net: NetName=B_OUT2 Pin=MTR2-1
+Added Pin To Net: NetName=B_OUT2 Pin=MTR2-3
+Added Pin To Net: NetName=GND Pin=MTR2-4
+Added Pin To Net: NetName=A_OUT2 Pin=MTR2-5
+Added Pin To Net: NetName=B_ENC2 Pin=MTR2-6
+Added Pin To Net: NetName=A_OUT2 Pin=MTR2-7
+Added Pin To Net: NetName=A_ENC2 Pin=MTR2-8
+Added Pin To Net: NetName=B_OUT3 Pin=MTR3-1
+Added Pin To Net: NetName=B_OUT3 Pin=MTR3-3
+Added Pin To Net: NetName=GND Pin=MTR3-4
+Added Pin To Net: NetName=A_OUT3 Pin=MTR3-5
+Added Pin To Net: NetName=B_ENC3 Pin=MTR3-6
+Added Pin To Net: NetName=A_OUT3 Pin=MTR3-7
+Added Pin To Net: NetName=A_ENC3 Pin=MTR3-8
+Added Pin To Net: NetName=3.3V Pin=OE-2
+Change Net Name : Old Net Name=NetJ24_1 New Net Name=NetEN_LV_TRANS_1
+Added Pin To Net: NetName=NetA0_1 Pin=A0-1
+Added Pin To Net: NetName=NetA0_1 Pin=R31-1
+Added Pin To Net: NetName=NetA0_1 Pin=U4-1
+Added Net: Name=NetA0_1
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=R33-1
+Added Pin To Net: NetName=NetA1_1 Pin=U4-2
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=NetA2_1 Pin=R36-1
+Added Pin To Net: NetName=NetA2_1 Pin=U4-3
+Added Net: Name=NetA2_1
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=NetA3_1 Pin=R37-1
+Added Pin To Net: NetName=NetA3_1 Pin=U4-4
+Added Net: Name=NetA3_1
+Added Pin To Net: NetName=NetA4_1 Pin=A4-1
+Added Pin To Net: NetName=NetA4_1 Pin=R39-1
+Added Pin To Net: NetName=NetA4_1 Pin=U4-5
+Added Net: Name=NetA4_1
+Added Pin To Net: NetName=NetA5_1 Pin=A5-1
+Added Pin To Net: NetName=NetA5_1 Pin=R38-1
+Added Pin To Net: NetName=NetA5_1 Pin=U4-24
+Added Net: Name=NetA5_1
+Added Pin To Net: NetName=NetOE_1 Pin=OE-1
+Added Pin To Net: NetName=NetOE_1 Pin=R43-1
+Added Pin To Net: NetName=NetOE_1 Pin=U4-23
+Added Net: Name=NetOE_1
+Added Member To Class: ClassName=Main Member=Component A0 Jumper
+Added Member To Class: ClassName=Main Member=Component A1 Jumper
+Added Member To Class: ClassName=Main Member=Component A2 Jumper
+Added Member To Class: ClassName=Main Member=Component A3 Jumper
+Added Member To Class: ClassName=Main Member=Component A4 Jumper
+Added Member To Class: ClassName=Main Member=Component A5 Jumper
+Added Member To Class: ClassName=Main Member=Component MODE0 Jumper
+Added Member To Class: ClassName=Main Member=Component MODE1 Jumper
+Added Member To Class: ClassName=Main Member=Component MODE2 Jumper
+Added Member To Class: ClassName=Main Member=Component MODE3 Jumper
+Added Member To Class: ClassName=Main Member=Component OE Jumper
+Added Member To Class: ClassName=ENABLE[0..3] Member=Element[2]: ENABLE
+Added Member To Class: ClassName=ENABLE[0..3] Member=Element[3]: ENABLE
