@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=ENABLE1 Pin=U1_MC1-18
+Added Pin To Net: NetName=PHASE1 Pin=U1_MC1-19
+Added Pin To Net: NetName=ENABLE2 Pin=U1_MC2-18
+Added Pin To Net: NetName=PHASE2 Pin=U1_MC2-19
+Added Pin To Net: NetName=ENABLE3 Pin=U1_MC3-18
+Added Pin To Net: NetName=PHASE3 Pin=U1_MC3-19
+Added Pin To Net: NetName=ENABLE4 Pin=U1_MC4-18
+Added Net: Name=ENABLE4
+Added Pin To Net: NetName=PHASE4 Pin=U1_MC4-19
+Added Net: Name=PHASE4
+Added Member To Class: ClassName=ENABLE[0..3] Member=Element[4]: ENABLE
+Added Member To Class: ClassName=PHASE[0..3] Member=Element[4]: PHASE

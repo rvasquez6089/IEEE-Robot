@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetQ3_MC1_S Pin=Q4_MC1-G
+Removed Pin From Net: NetName=NetQ3_MC2_S Pin=Q4_MC2-G
+Removed Pin From Net: NetName=NetQ3_MC3_S Pin=Q4_MC3-G
+Removed Pin From Net: NetName=NetQ3_MC4_S Pin=Q4_MC4-G
+Removed Pin From Net: NetName=NetQ3_MC1_S Pin=R6_MC1-1
+Removed Pin From Net: NetName=NetQ3_MC2_S Pin=R6_MC2-1
+Removed Pin From Net: NetName=NetQ3_MC3_S Pin=R6_MC3-1
+Removed Pin From Net: NetName=NetQ3_MC4_S Pin=R6_MC4-1
+Removed Pin From Net: NetName=NetQ3_MC1_S Pin=U1_MC1-5
+Removed Pin From Net: NetName=NetQ3_MC2_S Pin=U1_MC2-5
+Removed Pin From Net: NetName=NetQ3_MC3_S Pin=U1_MC3-5
+Removed Pin From Net: NetName=NetQ3_MC4_S Pin=U1_MC4-5
+Added Pin To Net: NetName=NetQ4_MC1_G Pin=Q4_MC1-G
+Added Pin To Net: NetName=NetQ4_MC1_G Pin=R6_MC1-1
+Added Pin To Net: NetName=NetQ4_MC1_G Pin=U1_MC1-5
+Added Net: Name=NetQ4_MC1_G
+Added Pin To Net: NetName=NetQ4_MC2_G Pin=Q4_MC2-G
+Added Pin To Net: NetName=NetQ4_MC2_G Pin=R6_MC2-1
+Added Pin To Net: NetName=NetQ4_MC2_G Pin=U1_MC2-5
+Added Net: Name=NetQ4_MC2_G
+Added Pin To Net: NetName=NetQ4_MC3_G Pin=Q4_MC3-G
+Added Pin To Net: NetName=NetQ4_MC3_G Pin=R6_MC3-1
+Added Pin To Net: NetName=NetQ4_MC3_G Pin=U1_MC3-5
+Added Net: Name=NetQ4_MC3_G
+Added Pin To Net: NetName=NetQ4_MC4_G Pin=Q4_MC4-G
+Added Pin To Net: NetName=NetQ4_MC4_G Pin=R6_MC4-1
+Added Pin To Net: NetName=NetQ4_MC4_G Pin=U1_MC4-5
+Added Net: Name=NetQ4_MC4_G
