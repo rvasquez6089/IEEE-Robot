@@ -1,0 +1,22 @@
+Replace Part C1 NICHICON_220uF_16V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with NICHICON_220uF_16V from SMD Capacitors Electrolytic.SchLib
+Replace Part C2 0805C-10UF-16V-X5R-TDK in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with 0805C-10UF-16V-X5R-TDK from SMD Capacitors 0805.SchLib
+Replace Part C3 0603C-100NF-25V-X7R-TDK in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with 0603C-100NF-25V-X7R-TDK from SMD Capacitors 0603.SchLib
+Replace Part C4 0603C-1NF-50V-X7R in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with 0603C-1NF-50V-X7R from SMD Capacitors 0603.SchLib
+Replace Part C5 0603C-100NF-25V-X7R-TDK in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with 0603C-100NF-25V-X7R-TDK from SMD Capacitors 0603.SchLib
+Replace Part EN LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part PH LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part Q1 MOSFET_N_CHAN_SIS406DN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with MOSFET_N_CHAN_SIS406DN from PBL - Transistors.SCHLIB
+Replace Part Q2 MOSFET_N_CHAN_SIS406DN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with MOSFET_N_CHAN_SIS406DN from PBL - Transistors.SCHLIB
+Replace Part Q3 MOSFET_N_CHAN_SIS406DN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with MOSFET_N_CHAN_SIS406DN from PBL - Transistors.SCHLIB
+Replace Part Q4 MOSFET_N_CHAN_SIS406DN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with MOSFET_N_CHAN_SIS406DN from PBL - Transistors.SCHLIB
+Replace Part R1 0603R-20K in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with 0603R-20K from SMD Resistors 0603.SchLib
+Replace Part R2 0603R-20K in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with 0603R-20K from SMD Resistors 0603.SchLib
+Replace Part R3 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R4 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R5 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R6 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R7 RES_0.015 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_0.015 from RyanMasterLib.SchLib
+Replace Part R11 RES_200R_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_200R_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R12 RES_200R_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with RES_200R_0603_5% from PBL - Resistors.SCHLIB
+Replace Part TR? R-TRIM-SMD-10k in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with R-TRIM-SMD-10k from SMD Resistors.SchLib
+Replace Part U1 Motor_CTRL_IC_A4956 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control.SchDoc with Motor_CTRL_IC_A4956 from PBL - Integrated Circuits.SCHLIB

@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=3.3V Pin=MODE1-2
+Removed Pin From Net: NetName=3.3V Pin=MODE2-2
+Removed Pin From Net: NetName=3.3V Pin=MODE3-2
+Removed Pin From Net: NetName=3.3V Pin=MODE4-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Member From Class: ClassName=Main Member=MODE1
+Removed Member From Class: ClassName=Main Member=MODE2
+Removed Member From Class: ClassName=Main Member=MODE3
+Removed Member From Class: ClassName=Main Member=MODE4
+Removed Member From Class: ClassName=Main Member=R8
+Removed Member From Class: ClassName=Main Member=R9
+Removed Member From Class: ClassName=Main Member=R10
+Removed Member From Class: ClassName=Main Member=R13
+Added Component: Designator=MODE_MC1(JUMP1)
+Added Component: Designator=MODE_MC2(JUMP1)
+Added Component: Designator=MODE_MC3(JUMP1)
+Added Component: Designator=MODE_MC4(JUMP1)
+Added Component: Designator=R8_MC1(RESC1608X55N)
+Added Component: Designator=R8_MC2(RESC1608X55N)
+Added Component: Designator=R8_MC3(RESC1608X55N)
+Added Component: Designator=R8_MC4(RESC1608X55N)
+Added Pin To Net: NetName=3.3V Pin=MODE_MC1-2
+Added Pin To Net: NetName=3.3V Pin=MODE_MC2-2
+Added Pin To Net: NetName=3.3V Pin=MODE_MC3-2
+Added Pin To Net: NetName=3.3V Pin=MODE_MC4-2
+Added Pin To Net: NetName=ENABLE1 Pin=PH_MC1-A
+Added Pin To Net: NetName=ENABLE2 Pin=PH_MC2-A
+Added Pin To Net: NetName=ENABLE3 Pin=PH_MC3-A
+Added Pin To Net: NetName=ENABLE4 Pin=PH_MC4-A
+Added Pin To Net: NetName=GND Pin=R8_MC1-2
+Added Pin To Net: NetName=GND Pin=R8_MC2-2
+Added Pin To Net: NetName=GND Pin=R8_MC3-2
+Added Pin To Net: NetName=GND Pin=R8_MC4-2
+Added Pin To Net: NetName=ENABLE1 Pin=U1_MC1-19
+Added Pin To Net: NetName=ENABLE2 Pin=U1_MC2-19
+Added Pin To Net: NetName=ENABLE3 Pin=U1_MC3-19
+Added Pin To Net: NetName=ENABLE4 Pin=U1_MC4-19
+Added Pin To Net: NetName=ENABLE1 Pin=U3-4
+Added Pin To Net: NetName=ENABLE2 Pin=U3-5
+Added Pin To Net: NetName=ENABLE3 Pin=U3-6
+Added Pin To Net: NetName=ENABLE4 Pin=U3-7
+Added Pin To Net: NetName=NetMODE_MC1_1 Pin=MODE_MC1-1
+Added Pin To Net: NetName=NetMODE_MC1_1 Pin=R8_MC1-1
+Added Pin To Net: NetName=NetMODE_MC1_1 Pin=U1_MC1-2
+Added Net: Name=NetMODE_MC1_1
+Added Pin To Net: NetName=NetMODE_MC2_1 Pin=MODE_MC2-1
+Added Pin To Net: NetName=NetMODE_MC2_1 Pin=R8_MC2-1
+Added Pin To Net: NetName=NetMODE_MC2_1 Pin=U1_MC2-2
+Added Net: Name=NetMODE_MC2_1
+Added Pin To Net: NetName=NetMODE_MC3_1 Pin=MODE_MC3-1
+Added Pin To Net: NetName=NetMODE_MC3_1 Pin=R8_MC3-1
+Added Pin To Net: NetName=NetMODE_MC3_1 Pin=U1_MC3-2
+Added Net: Name=NetMODE_MC3_1
+Added Pin To Net: NetName=NetMODE_MC4_1 Pin=MODE_MC4-1
+Added Pin To Net: NetName=NetMODE_MC4_1 Pin=R8_MC4-1
+Added Pin To Net: NetName=NetMODE_MC4_1 Pin=U1_MC4-2
+Added Net: Name=NetMODE_MC4_1
+Added Member To Class: ClassName=MC1 Member=Component MODE_MC1 (MODE) Jumper
+Added Member To Class: ClassName=MC2 Member=Component MODE_MC2 (MODE) Jumper
+Added Member To Class: ClassName=MC3 Member=Component MODE_MC3 (MODE) Jumper
+Added Member To Class: ClassName=MC4 Member=Component MODE_MC4 (MODE) Jumper
+Added Member To Class: ClassName=MC1 Member=Component R8_MC1 (R8) Thick Film
+Added Member To Class: ClassName=MC2 Member=Component R8_MC2 (R8) Thick Film
+Added Member To Class: ClassName=MC3 Member=Component R8_MC3 (R8) Thick Film
+Added Member To Class: ClassName=MC4 Member=Component R8_MC4 (R8) Thick Film

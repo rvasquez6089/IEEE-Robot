@@ -1,0 +1,12 @@
+Added Component: Designator=C42(CAPC1608X90N)
+Added Component: Designator=C43(CAPC1608X90N)
+Added Component: Designator=C44(CAPC1608X90N)
+Added Pin To Net: NetName=5V Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=5V Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=5V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Member To Class: ClassName=Main Member=Component C42 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C43 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C44 approved sub OK
