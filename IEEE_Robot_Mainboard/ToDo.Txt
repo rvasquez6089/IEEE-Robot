@@ -9,5 +9,5 @@
                          1. Add low pass filters to the current sense op amp outputs
                          2. Add Connections for Ultra Sonic sensors and add level shifters
                          3. Add IMU
-                         4. Add ADS1015 A/D                     s
+                         4. Add ADS7828
 
