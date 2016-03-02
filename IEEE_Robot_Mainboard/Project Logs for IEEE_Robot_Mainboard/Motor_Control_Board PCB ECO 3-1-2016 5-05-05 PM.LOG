@@ -1,0 +1,89 @@
+Change Component Designator: OldDesignator=EN_LV_TRANS NewDesignator=EN_LV_TRANS1
+Added Component: Designator=C45(CAPC1608X90N)
+Added Component: Designator=C46(CAPC1608X90N)
+Added Component: Designator=C47(CAPC1608X90N)
+Added Component: Designator=C48(CAPC1608X90N)
+Added Component: Designator=C49(CAPC1608X90N)
+Added Component: Designator=C50(CAPC1608X90N)
+Added Component: Designator=EN_LV_TRANS2(JUMP1)
+Added Component: Designator=R9(RESC1608X55N)
+Added Component: Designator=U8(TSSOP65P640X120-20N)
+Added Pin To Net: NetName=3.3V Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=3.3V Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=3.3V Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=5V Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=5V Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=5V Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=5V Pin=EN_LV_TRANS2-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=3.3V Pin=U8-2
+Added Pin To Net: NetName=5V Pin=U8-19
+Change Net Name : Old Net Name=NetEN_LV_TRANS_1 New Net Name=NetEN_LV_TRANS1_1
+Added Pin To Net: NetName=ECHO_A_1 Pin=J8-33
+Added Pin To Net: NetName=ECHO_A_1 Pin=U8-4
+Added Net: Name=ECHO_A_1
+Added Pin To Net: NetName=ECHO_A_2 Pin=J8-37
+Added Pin To Net: NetName=ECHO_A_2 Pin=U8-6
+Added Net: Name=ECHO_A_2
+Added Pin To Net: NetName=ECHO_A_3 Pin=J8-26
+Added Pin To Net: NetName=ECHO_A_3 Pin=U8-8
+Added Net: Name=ECHO_A_3
+Added Pin To Net: NetName=ECHO_A_4 Pin=J8-22
+Added Pin To Net: NetName=ECHO_A_4 Pin=U8-10
+Added Net: Name=ECHO_A_4
+Added Pin To Net: NetName=ECHO_B_1 Pin=J16-2
+Added Pin To Net: NetName=ECHO_B_1 Pin=U8-17
+Added Net: Name=ECHO_B_1
+Added Pin To Net: NetName=ECHO_B_2 Pin=J17-2
+Added Pin To Net: NetName=ECHO_B_2 Pin=U8-15
+Added Net: Name=ECHO_B_2
+Added Pin To Net: NetName=ECHO_B_3 Pin=J25-2
+Added Pin To Net: NetName=ECHO_B_3 Pin=U8-13
+Added Net: Name=ECHO_B_3
+Added Pin To Net: NetName=ECHO_B_4 Pin=J26-2
+Added Pin To Net: NetName=ECHO_B_4 Pin=U8-11
+Added Net: Name=ECHO_B_4
+Added Pin To Net: NetName=NetEN_LV_TRANS2_1 Pin=EN_LV_TRANS2-1
+Added Pin To Net: NetName=NetEN_LV_TRANS2_1 Pin=R9-1
+Added Pin To Net: NetName=NetEN_LV_TRANS2_1 Pin=U8-20
+Added Net: Name=NetEN_LV_TRANS2_1
+Added Pin To Net: NetName=TRIG_A_1 Pin=J8-31
+Added Pin To Net: NetName=TRIG_A_1 Pin=U8-3
+Added Net: Name=TRIG_A_1
+Added Pin To Net: NetName=TRIG_A_2 Pin=J8-35
+Added Pin To Net: NetName=TRIG_A_2 Pin=U8-5
+Added Net: Name=TRIG_A_2
+Added Pin To Net: NetName=TRIG_A_3 Pin=J8-28
+Added Pin To Net: NetName=TRIG_A_3 Pin=U8-7
+Added Net: Name=TRIG_A_3
+Added Pin To Net: NetName=TRIG_A_4 Pin=J8-24
+Added Pin To Net: NetName=TRIG_A_4 Pin=U8-9
+Added Net: Name=TRIG_A_4
+Added Pin To Net: NetName=TRIG_B_1 Pin=J16-3
+Added Pin To Net: NetName=TRIG_B_1 Pin=U8-18
+Added Net: Name=TRIG_B_1
+Added Pin To Net: NetName=TRIG_B_2 Pin=J17-3
+Added Pin To Net: NetName=TRIG_B_2 Pin=U8-16
+Added Net: Name=TRIG_B_2
+Added Pin To Net: NetName=TRIG_B_3 Pin=J25-3
+Added Pin To Net: NetName=TRIG_B_3 Pin=U8-14
+Added Net: Name=TRIG_B_3
+Added Pin To Net: NetName=TRIG_B_4 Pin=J26-3
+Added Pin To Net: NetName=TRIG_B_4 Pin=U8-12
+Added Net: Name=TRIG_B_4
+Added Member To Class: ClassName=Main Member=Component C45 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C46 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C47 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C48 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C49 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C50 approved sub OK
+Added Member To Class: ClassName=Main Member=Component EN_LV_TRANS2 Jumper
+Added Member To Class: ClassName=Main Member=Component R9 Thick Film
+Added Member To Class: ClassName=Main Member=Component U8 NVT2008
