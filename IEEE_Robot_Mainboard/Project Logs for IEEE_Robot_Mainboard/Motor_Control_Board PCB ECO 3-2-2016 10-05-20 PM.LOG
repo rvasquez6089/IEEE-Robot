@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=ENABLE[1..4] Member=PHASE1
+Removed Member From Class: ClassName=ENABLE[1..4] Member=PHASE2
+Change Component Designator: OldDesignator=A3 NewDesignator=A3_PWM
+Change Component Designator: OldDesignator=A4 NewDesignator=A4_PWM
+Change Component Designator: OldDesignator=A5 NewDesignator=A5_PWM
+Change Component Designator: OldDesignator=A6 NewDesignator=A0_PWM
+Change Component Designator: OldDesignator=A7 NewDesignator=A1_PWM
+Change Component Designator: OldDesignator=A8 NewDesignator=A2_PWM
+Change Net Name : Old Net Name=NetA3_1 New Net Name=NetA3_PWM_1
+Change Net Name : Old Net Name=NetA4_1 New Net Name=NetA4_PWM_1
+Change Net Name : Old Net Name=NetA5_1 New Net Name=NetA5_PWM_1
+Change Net Name : Old Net Name=NetA6_1 New Net Name=NetA0_PWM_1
+Change Net Name : Old Net Name=NetA7_1 New Net Name=NetA1_PWM_1
+Change Net Name : Old Net Name=NetA8_1 New Net Name=NetA2_PWM_1
+Added Member To Class: ClassName=ENABLE[1..4] Member=Element[1]: ENABLE
+Added Member To Class: ClassName=ENABLE[1..4] Member=Element[2]: ENABLE
