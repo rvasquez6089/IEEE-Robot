@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=AIOUT4 Pin=U2-A2
+Removed Pin From Net: NetName=AIOUT3 Pin=U2-A3
+Removed Pin From Net: NetName=AIOUT2 Pin=U2-A6
+Removed Pin From Net: NetName=AIOUT1 Pin=U2-A7
+Change Component Designator: OldDesignator=OE NewDesignator=OE_PWM
+Added Component: Designator=C51(CAPC1608X90N)
+Added Component: Designator=C52(CAPC1608X90N)
+Added Component: Designator=C53(CAPC1608X90N)
+Added Component: Designator=C54(CAPC1608X90N)
+Added Component: Designator=R10(RESC1608X55N)
+Added Component: Designator=R13(RESC1608X55N)
+Added Component: Designator=R62(RESC1608X55N)
+Added Component: Designator=R63(RESC1608X55N)
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=AIOUT1 Pin=R10-2
+Added Pin To Net: NetName=AIOUT2 Pin=R13-2
+Added Pin To Net: NetName=AIOUT3 Pin=R62-2
+Added Pin To Net: NetName=AIOUT4 Pin=R63-2
+Change Net Name : Old Net Name=NetOE_1 New Net Name=NetOE_PWM_1
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=NetC51_1 Pin=R63-1
+Added Pin To Net: NetName=NetC51_1 Pin=U2-A2
+Added Net: Name=NetC51_1
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=NetC52_1 Pin=R62-1
+Added Pin To Net: NetName=NetC52_1 Pin=U2-A3
+Added Net: Name=NetC52_1
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=NetC53_1 Pin=R13-1
+Added Pin To Net: NetName=NetC53_1 Pin=U2-A6
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=NetC54_1 Pin=C54-1
+Added Pin To Net: NetName=NetC54_1 Pin=R10-1
+Added Pin To Net: NetName=NetC54_1 Pin=U2-A7
+Added Net: Name=NetC54_1
+Added Member To Class: ClassName=Main Member=Component C51 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C52 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C53 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C54 approved sub OK
+Added Member To Class: ClassName=Main Member=Component R10 Thick Film
+Added Member To Class: ClassName=Main Member=Component R13 Thick Film
+Added Member To Class: ClassName=Main Member=Component R62 Thick Film
+Added Member To Class: ClassName=Main Member=Component R63 Thick Film

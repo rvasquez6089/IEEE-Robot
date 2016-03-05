@@ -1,0 +1,74 @@
+Change Component Designator: OldDesignator=A0 NewDesignator=A0_IO
+Change Component Designator: OldDesignator=A1 NewDesignator=A1_IO
+Change Component Designator: OldDesignator=A2 NewDesignator=A2_IO
+Added Component: Designator=A0_AD(JUMP1)
+Added Component: Designator=A1_AD(JUMP1)
+Added Component: Designator=C61(CAPC1608X90N)
+Added Component: Designator=C62(CAPC1608X90N)
+Added Component: Designator=C63(CAPC2012X135N)
+Added Component: Designator=J1(JST_PH_3_B3B)
+Added Component: Designator=J2(JST_PH_3_B3B)
+Added Component: Designator=J3(JST_PH_3_B3B)
+Added Component: Designator=J4(JST_PH_3_B3B)
+Added Component: Designator=R65(RESC1608X55N)
+Added Component: Designator=R66(RESC1608X55N)
+Added Component: Designator=U10(TSSOP16)
+Added Pin To Net: NetName=3.3V Pin=A0_AD-1
+Added Pin To Net: NetName=3.3V Pin=A1_AD-1
+Added Pin To Net: NetName=3.3V Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=3.3V Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=3.3V Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=3.3V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=3.3V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=3.3V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=R65-2
+Added Pin To Net: NetName=GND Pin=R66-2
+Added Pin To Net: NetName=GND Pin=U10-9
+Added Pin To Net: NetName=3.3V Pin=U10-10
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=SCL Pin=U10-14
+Added Pin To Net: NetName=SDA Pin=U10-15
+Added Pin To Net: NetName=3.3V Pin=U10-16
+Change Net Name : Old Net Name=NetA0_1 New Net Name=NetA0_IO_1
+Change Net Name : Old Net Name=NetA1_1 New Net Name=NetA1_IO_1
+Change Net Name : Old Net Name=NetA2_1 New Net Name=NetA2_IO_1
+Added Pin To Net: NetName=AD_CH0 Pin=J1-2
+Added Pin To Net: NetName=AD_CH0 Pin=U10-1
+Added Net: Name=AD_CH0
+Added Pin To Net: NetName=AD_CH1 Pin=J2-2
+Added Pin To Net: NetName=AD_CH1 Pin=U10-2
+Added Net: Name=AD_CH1
+Added Pin To Net: NetName=AD_CH2 Pin=J3-2
+Added Pin To Net: NetName=AD_CH2 Pin=U10-3
+Added Net: Name=AD_CH2
+Added Pin To Net: NetName=AD_CH3 Pin=J4-2
+Added Pin To Net: NetName=AD_CH3 Pin=U10-4
+Added Net: Name=AD_CH3
+Added Pin To Net: NetName=NetA0_AD_2 Pin=A0_AD-2
+Added Pin To Net: NetName=NetA0_AD_2 Pin=R66-1
+Added Pin To Net: NetName=NetA0_AD_2 Pin=U10-12
+Added Net: Name=NetA0_AD_2
+Added Pin To Net: NetName=NetA1_AD_2 Pin=A1_AD-2
+Added Pin To Net: NetName=NetA1_AD_2 Pin=R65-1
+Added Pin To Net: NetName=NetA1_AD_2 Pin=U10-13
+Added Net: Name=NetA1_AD_2
+Added Member To Class: ClassName=Main Member=Component A0_AD Jumper
+Added Member To Class: ClassName=Main Member=Component A1_AD Jumper
+Added Member To Class: ClassName=Main Member=Component C61 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C62 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C63 approved sub OK
+Added Member To Class: ClassName=Main Member=Component J1 JST_PH_B3B
+Added Member To Class: ClassName=Main Member=Component J2 JST_PH_B3B
+Added Member To Class: ClassName=Main Member=Component J3 JST_PH_B3B
+Added Member To Class: ClassName=Main Member=Component J4 JST_PH_B3B
+Added Member To Class: ClassName=Main Member=Component R65 Thick Film
+Added Member To Class: ClassName=Main Member=Component R66 Thick Film
+Added Member To Class: ClassName=Main Member=Component U10 ADS7828

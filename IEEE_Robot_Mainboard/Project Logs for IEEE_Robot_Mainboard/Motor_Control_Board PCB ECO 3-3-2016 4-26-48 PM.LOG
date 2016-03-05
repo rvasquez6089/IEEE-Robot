@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=J16-1
+Removed Pin From Net: NetName=ECHO_B_1 Pin=J16-2
+Removed Pin From Net: NetName=TRIG_B_1 Pin=J16-3
+Removed Pin From Net: NetName=5V Pin=J16-4
+Removed Pin From Net: NetName=GND Pin=J17-1
+Removed Pin From Net: NetName=ECHO_B_2 Pin=J17-2
+Removed Pin From Net: NetName=TRIG_B_2 Pin=J17-3
+Removed Pin From Net: NetName=5V Pin=J17-4
+Removed Member From Class: ClassName=Main Member=J16
+Removed Member From Class: ClassName=Main Member=J17
+Change Component Designator: OldDesignator=J25 NewDesignator=DS3
+Change Component Designator: OldDesignator=J26 NewDesignator=DS4
+Added Component: Designator=DS1(JST_PH_4_B4B)
+Added Component: Designator=DS2(JST_PH_4_B4B)
+Added Pin To Net: NetName=GND Pin=DS1-1
+Added Pin To Net: NetName=ECHO_B_1 Pin=DS1-2
+Added Pin To Net: NetName=TRIG_B_1 Pin=DS1-3
+Added Pin To Net: NetName=5V Pin=DS1-4
+Added Pin To Net: NetName=GND Pin=DS2-1
+Added Pin To Net: NetName=ECHO_B_2 Pin=DS2-2
+Added Pin To Net: NetName=TRIG_B_2 Pin=DS2-3
+Added Pin To Net: NetName=5V Pin=DS2-4
+Added Member To Class: ClassName=Main Member=Component DS1 JST_PH_B4B
+Added Member To Class: ClassName=Main Member=Component DS2 JST_PH_B4B

@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=B_ENC1 Pin=MTR0-6
+Removed Pin From Net: NetName=A_ENC1 Pin=MTR0-8
+Removed Pin From Net: NetName=B_ENC2 Pin=MTR1-6
+Removed Pin From Net: NetName=A_ENC2 Pin=MTR1-8
+Removed Pin From Net: NetName=B_ENC3 Pin=MTR2-6
+Removed Pin From Net: NetName=A_ENC3 Pin=MTR2-8
+Removed Pin From Net: NetName=B_ENC4 Pin=MTR3-6
+Removed Pin From Net: NetName=A_ENC4 Pin=MTR3-8
+Removed Pin From Net: NetName=SERVO_0 Pin=U7-3
+Removed Pin From Net: NetName=SERVO_1 Pin=U7-4
+Removed Pin From Net: NetName=SERVO_2 Pin=U7-5
+Removed Pin From Net: NetName=SERVO_3 Pin=U7-6
+Removed Pin From Net: NetName=SERVO_4 Pin=U7-7
+Removed Pin From Net: NetName=SERVO_B4 Pin=U7-14
+Removed Pin From Net: NetName=SERVO_B3 Pin=U7-15
+Removed Pin From Net: NetName=SERVO_B2 Pin=U7-16
+Removed Pin From Net: NetName=SERVO_B1 Pin=U7-17
+Removed Pin From Net: NetName=SERVO_B0 Pin=U7-18
+Change Component Designator: OldDesignator=MTR0 NewDesignator=MTR1
+Change Component Designator: OldDesignator=MTR1 NewDesignator=MTR2
+Change Component Designator: OldDesignator=MTR2 NewDesignator=MTR3
+Change Component Designator: OldDesignator=MTR3 NewDesignator=MTR4
+Added Component: Designator=C55(CAPC1608X90N)
+Added Component: Designator=C56(CAPC1608X90N)
+Added Component: Designator=C57(CAPC1608X90N)
+Added Component: Designator=C58(CAPC1608X90N)
+Added Component: Designator=C59(CAPC1608X90N)
+Added Component: Designator=C60(CAPC1608X90N)
+Added Component: Designator=EN_LV_TRANS3(JUMP1)
+Added Component: Designator=R64(RESC1608X55N)
+Added Component: Designator=U9(TSSOP65P640X120-20N)
+Added Pin To Net: NetName=3.3V Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=3.3V Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=3.3V Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=5V Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=5V Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=5V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=5V Pin=EN_LV_TRANS1-2
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=B_ENC4 Pin=U7-3
+Added Pin To Net: NetName=A_ENC4 Pin=U7-4
+Added Pin To Net: NetName=B_ENC3 Pin=U7-5
+Added Pin To Net: NetName=A_ENC3 Pin=U7-6
+Added Pin To Net: NetName=B_ENC2 Pin=U7-7
+Added Pin To Net: NetName=A_ENC2 Pin=U7-8
+Added Pin To Net: NetName=B_ENC1 Pin=U7-9
+Added Pin To Net: NetName=A_ENC1 Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=3.3V Pin=U7-2
+Added Pin To Net: NetName=SERVO_0 Pin=U7-3
+Added Pin To Net: NetName=SERVO_1 Pin=U7-4
+Added Pin To Net: NetName=SERVO_2 Pin=U7-5
+Added Pin To Net: NetName=SERVO_3 Pin=U7-6
+Added Pin To Net: NetName=SERVO_4 Pin=U7-7
+Added Pin To Net: NetName=SERVO_B4 Pin=U7-14
+Added Pin To Net: NetName=SERVO_B3 Pin=U7-15
+Added Pin To Net: NetName=SERVO_B2 Pin=U7-16
+Added Pin To Net: NetName=SERVO_B1 Pin=U7-17
+Added Pin To Net: NetName=SERVO_B0 Pin=U7-18
+Added Pin To Net: NetName=5V Pin=U7-19
+Added Pin To Net: NetName=NetEN_LV_TRANS3_1 Pin=EN_LV_TRANS1-1
+Added Pin To Net: NetName=NetEN_LV_TRANS3_1 Pin=R50-1
+Added Pin To Net: NetName=NetEN_LV_TRANS3_1 Pin=U7-20
+Added Net: Name=NetEN_LV_TRANS3_1
+Added Pin To Net: NetName=NetMTR1_6 Pin=MTR1-6
+Added Pin To Net: NetName=NetMTR1_6 Pin=U7-12
+Added Net: Name=NetMTR1_6
+Added Pin To Net: NetName=NetMTR1_8 Pin=MTR1-8
+Added Pin To Net: NetName=NetMTR1_8 Pin=U7-11
+Added Net: Name=NetMTR1_8
+Added Pin To Net: NetName=NetMTR2_6 Pin=MTR2-6
+Added Pin To Net: NetName=NetMTR2_6 Pin=U7-14
+Added Net: Name=NetMTR2_6
+Added Pin To Net: NetName=NetMTR2_8 Pin=MTR2-8
+Added Pin To Net: NetName=NetMTR2_8 Pin=U7-13
+Added Net: Name=NetMTR2_8
+Added Pin To Net: NetName=NetMTR3_6 Pin=MTR3-6
+Added Pin To Net: NetName=NetMTR3_6 Pin=U7-16
+Added Net: Name=NetMTR3_6
+Added Pin To Net: NetName=NetMTR3_8 Pin=MTR3-8
+Added Pin To Net: NetName=NetMTR3_8 Pin=U7-15
+Added Net: Name=NetMTR3_8
+Added Pin To Net: NetName=NetMTR4_6 Pin=MTR4-6
+Added Pin To Net: NetName=NetMTR4_6 Pin=U7-18
+Added Net: Name=NetMTR4_6
+Added Pin To Net: NetName=NetMTR4_8 Pin=MTR4-8
+Added Pin To Net: NetName=NetMTR4_8 Pin=U7-17
+Added Net: Name=NetMTR4_8
+Added Member To Class: ClassName=Main Member=Component C55 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C56 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C57 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C58 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C59 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C60 approved sub OK
+Added Member To Class: ClassName=Main Member=Component EN_LV_TRANS3 Jumper
+Added Member To Class: ClassName=Main Member=Component R64 Thick Film
+Added Member To Class: ClassName=Main Member=Component U9 NVT2008
+Added Room: Name=Main
+Added Room: Name=Power_Supply
