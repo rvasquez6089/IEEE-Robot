@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3.3V Pin=C56-1
+Removed Pin From Net: NetName=GND Pin=C56-2
+Change Component DesignItemId : Designator=C55 Old DesignItemId=CAPC_100n_0603_X7R_50V_10% New DesignItemId=CAPC_1u_0603_X7R_16V_10%
+Change Component DesignItemId : Designator=C56 Old DesignItemId=CAPC_100n_0603_X7R_50V_10% New DesignItemId=CAPC_1u_0603_X7R_16V_10%
+Change Component Description : Designator=C55 Old Description=Capacitor SMD Cer 100nF 10% 50V X7R 0603 New Description=Capacitor SMD Cer 1uF 10% 16V X7R 0603
+Change Component Description : Designator=C56 Old Description=Capacitor SMD Cer 100nF 10% 50V X7R 0603 New Description=Capacitor SMD Cer 1uF 10% 16V X7R 0603
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=3.3V Pin=C56-2

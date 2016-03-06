@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TRIG_A_3 Pin=J8-28
+Added Pin To Net: NetName=TRIG_A_3 Pin=J8-32
+Added Room: Name=Main
+Added Room: Name=Power_Supply
