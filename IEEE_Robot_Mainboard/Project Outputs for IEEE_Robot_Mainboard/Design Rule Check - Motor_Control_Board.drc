@@ -1,0 +1,83 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Motor_Control_Board.PcbDoc
+Date     : 3/6/2016
+Time     : 1:13:29 AM
+
+Processing Rule : Room MC4 (Bounding Region = (4145.669mil, 3893.701mil, 4889.764mil, 6068.898mil) (InComponentClass('MC4'))
+Rule Violations :0
+
+Processing Rule : Room MC3 (Bounding Region = (3452.756mil, 3893.701mil, 4196.85mil, 6068.898mil) (InComponentClass('MC3'))
+Rule Violations :0
+
+Processing Rule : Room MC2 (Bounding Region = (2759.843mil, 3893.701mil, 3503.937mil, 6068.898mil) (InComponentClass('MC2'))
+Rule Violations :0
+
+Processing Rule : Room MC1 (Bounding Region = (2066.929mil, 3893.701mil, 2811.024mil, 6068.898mil) (InComponentClass('MC1'))
+Rule Violations :0
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (4280.016mil,5894.457mil) Top Layer to Bottom Layer
+Rule Violations :1
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=250mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=1000mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net AD_CH3 Between Pad U10-4 (2162.402,6716.535mil) And Pad J4-2 (2178.598,7637.795mil)
+   Violation between Un-Routed Net Constraint: Net AD_CH2 Between Pad U10-3 (2162.402,6742.126mil) And Pad J3-2 (2178.598,7413.386mil)
+   Violation between Un-Routed Net Constraint: Net AD_CH1 Between Pad U10-2 (2162.402,6767.717mil) And Pad J2-2 (2181.102,7188.976mil)
+   Violation between Un-Routed Net Constraint: Net AD_CH0 Between Pad U10-1 (2162.402,6793.307mil) And Pad J1-2 (2181.102,6964.315mil)
+   Violation between Un-Routed Net Constraint: Net 3.3V Between Track on layer Top Layer (3340.945,6211.811mil) And Track on layer Top Layer (3393.701,6116.142mil)
+   Violation between Un-Routed Net Constraint: Net 3.3V Between Pad J3-1 (2257.338,7413.386mil) And Pad J4-1 (2257.338,7637.795mil)
+   Violation between Un-Routed Net Constraint: Net 3.3V Between Pad J1-1 (2259.843,6964.315mil) And Pad J2-1 (2259.843,7188.976mil)
+   Violation between Un-Routed Net Constraint: Net 3.3V Between Pad J3-1 (2257.338,7413.386mil) And Pad J2-1 (2259.843,7188.976mil)
+   Violation between Un-Routed Net Constraint: Net 3.3V Between Pad J1-1 (2259.843,6964.315mil) And Track on layer Top Layer (2270.793,6731.423mil)
+   Violation between Un-Routed Net Constraint: Net 5V Between Track on layer Bottom Layer (4763.779,3948.819mil) And Pad SRV0-3 (5818.898,4695.559mil)
+   Violation between Un-Routed Net Constraint: Net NetU1_MC1_16 Between Pad U1_MC3-16 (3869.842,5288.693mil) And Pad U1_MC4-16 (4562.756,5288.693mil)
+   Violation between Un-Routed Net Constraint: Net NetU1_MC1_16 Between Pad U1_MC1-16 (2484.016,5288.693mil) And Pad U1_MC2-16 (3176.929,5288.693mil)
+   Violation between Un-Routed Net Constraint: Net NetU1_MC1_16 Between Pad U1_MC2-16 (3176.929,5288.693mil) And Pad U1_MC3-16 (3869.842,5288.693mil)
+Rule Violations :13
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+   Violation between Minimum Annular Ring (4.999mil < 6mil) : Pad Free-5(2786.417mil,5292.323mil)  Multi-Layer
+   Violation between Minimum Annular Ring (4.999mil < 6mil) : Pad Free-6(3479.635mil,5298.228mil)  Multi-Layer
+   Violation between Minimum Annular Ring (4.999mil < 6mil) : Pad Free-8(4170.276mil,5293.307mil)  Multi-Layer
+   Violation between Minimum Annular Ring (4.999mil < 6mil) : Pad Free-9(2093.504mil,5292.323mil)  Multi-Layer
+Rule Violations :4
+
+
+Violations Detected : 18
+Time Elapsed        : 00:00:07

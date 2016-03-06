@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=AD_CH0 Pin=U10-1
+Removed Pin From Net: NetName=AD_CH1 Pin=U10-2
+Removed Pin From Net: NetName=AD_CH2 Pin=U10-3
+Removed Pin From Net: NetName=AD_CH3 Pin=U10-4
+Added Component: Designator=C65(CAPC1608X90N)
+Added Component: Designator=C66(CAPC1608X90N)
+Added Component: Designator=C67(CAPC1608X90N)
+Added Component: Designator=C68(CAPC1608X90N)
+Added Component: Designator=R67(RESC1608X55N)
+Added Component: Designator=R68(RESC1608X55N)
+Added Component: Designator=R69(RESC1608X55N)
+Added Component: Designator=R70(RESC1608X55N)
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=AD_CH0 Pin=R67-1
+Added Pin To Net: NetName=AD_CH1 Pin=R68-1
+Added Pin To Net: NetName=AD_CH2 Pin=R69-1
+Added Pin To Net: NetName=AD_CH3 Pin=R70-1
+Added Pin To Net: NetName=NetC65_1 Pin=C65-1
+Added Pin To Net: NetName=NetC65_1 Pin=R70-2
+Added Pin To Net: NetName=NetC65_1 Pin=U10-4
+Added Net: Name=NetC65_1
+Added Pin To Net: NetName=NetC66_1 Pin=C66-1
+Added Pin To Net: NetName=NetC66_1 Pin=R69-2
+Added Pin To Net: NetName=NetC66_1 Pin=U10-3
+Added Net: Name=NetC66_1
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=R68-2
+Added Pin To Net: NetName=NetC67_1 Pin=U10-2
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC68_1 Pin=C68-1
+Added Pin To Net: NetName=NetC68_1 Pin=R67-2
+Added Pin To Net: NetName=NetC68_1 Pin=U10-1
+Added Net: Name=NetC68_1
+Added Member To Class: ClassName=Main Member=Component C65 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C66 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C67 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C68 approved sub OK
+Added Member To Class: ClassName=Main Member=Component R67 Thick Film
+Added Member To Class: ClassName=Main Member=Component R68 Thick Film
+Added Member To Class: ClassName=Main Member=Component R69 Thick Film
+Added Member To Class: ClassName=Main Member=Component R70 Thick Film
