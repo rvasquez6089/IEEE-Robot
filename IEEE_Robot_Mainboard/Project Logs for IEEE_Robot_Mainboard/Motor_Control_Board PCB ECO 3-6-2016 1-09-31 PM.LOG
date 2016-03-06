@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=R54_MC1 Old DesignItemId=RES_100R_0603_1% New DesignItemId=RES_348R_0603_1%
+Change Component DesignItemId : Designator=R54_MC2 Old DesignItemId=RES_100R_0603_1% New DesignItemId=RES_348R_0603_1%
+Change Component DesignItemId : Designator=R54_MC3 Old DesignItemId=RES_100R_0603_1% New DesignItemId=RES_348R_0603_1%
+Change Component DesignItemId : Designator=R54_MC4 Old DesignItemId=RES_100R_0603_1% New DesignItemId=RES_348R_0603_1%
+Change Component Comment : Designator=R54_MC1 Old Comment=Thick Film New Comment=Thin Film
+Change Component Comment : Designator=R54_MC2 Old Comment=Thick Film New Comment=Thin Film
+Change Component Comment : Designator=R54_MC3 Old Comment=Thick Film New Comment=Thin Film
+Change Component Comment : Designator=R54_MC4 Old Comment=Thick Film New Comment=Thin Film
+Change Component Description : Designator=R54_MC1 Old Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603 New Description=Resistor SMD chip 348 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R54_MC2 Old Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603 New Description=Resistor SMD chip 348 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R54_MC3 Old Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603 New Description=Resistor SMD chip 348 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R54_MC4 Old Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603 New Description=Resistor SMD chip 348 Ohm 0.1W 1% 0603

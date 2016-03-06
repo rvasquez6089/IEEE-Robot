@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SW1 Pin=Q6-3
+Removed Pin From Net: NetName=SW2 Pin=Q7-3
+Removed Pin From Net: NetName=SW3 Pin=Q8-3
+Removed Pin From Net: NetName=SW4 Pin=Q9-3
+Removed Pin From Net: NetName=SW1 Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=SW2 Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Pin From Net: NetName=SW3 Pin=SW3-1
+Removed Pin From Net: NetName=GND Pin=SW3-2
+Removed Pin From Net: NetName=SW4 Pin=SW4-1
+Removed Pin From Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=5V Pin=SW1-2
+Added Pin To Net: NetName=5V Pin=SW2-2
+Added Pin To Net: NetName=5V Pin=SW3-2
+Added Pin To Net: NetName=5V Pin=SW4-2
+Added Pin To Net: NetName=SWO1 Pin=Q6-3
+Added Pin To Net: NetName=SWO1 Pin=SW1-1
+Added Net: Name=SWO1
+Added Pin To Net: NetName=SWO2 Pin=Q7-3
+Added Pin To Net: NetName=SWO2 Pin=SW2-1
+Added Net: Name=SWO2
+Added Pin To Net: NetName=SWO3 Pin=Q8-3
+Added Pin To Net: NetName=SWO3 Pin=SW3-1
+Added Net: Name=SWO3
+Added Pin To Net: NetName=SWO4 Pin=Q9-3
+Added Pin To Net: NetName=SWO4 Pin=SW4-1
+Added Net: Name=SWO4

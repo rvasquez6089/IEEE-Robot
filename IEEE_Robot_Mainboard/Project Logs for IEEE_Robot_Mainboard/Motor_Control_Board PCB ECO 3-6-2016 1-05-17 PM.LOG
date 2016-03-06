@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3.3V Pin=LED8_MC1-A
+Removed Pin From Net: NetName=3.3V Pin=LED8_MC2-A
+Removed Pin From Net: NetName=3.3V Pin=LED8_MC3-A
+Removed Pin From Net: NetName=3.3V Pin=LED8_MC4-A
+Added Pin To Net: NetName=VBAT_MC1 Pin=LED8_MC1-A
+Added Net: Name=VBAT_MC1
+Added Pin To Net: NetName=VBAT_MC2 Pin=LED8_MC2-A
+Added Net: Name=VBAT_MC2
+Added Pin To Net: NetName=VBAT_MC3 Pin=LED8_MC3-A
+Added Net: Name=VBAT_MC3
+Added Pin To Net: NetName=VBAT_MC4 Pin=LED8_MC4-A
+Added Net: Name=VBAT_MC4
+Added Room: Name=Main
+Added Room: Name=Power_Supply

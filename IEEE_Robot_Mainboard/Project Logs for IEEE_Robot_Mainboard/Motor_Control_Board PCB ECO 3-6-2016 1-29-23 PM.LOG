@@ -1,0 +1,16 @@
+Added Component: Designator=C2MC1(CAPC2012X135N)
+Added Component: Designator=C2MC2(CAPC2012X135N)
+Added Component: Designator=C2MC3(CAPC2012X135N)
+Added Component: Designator=C2MC4(CAPC2012X135N)
+Added Pin To Net: NetName=VBAT Pin=C2MC1-1
+Added Pin To Net: NetName=GND Pin=C2MC1-2
+Added Pin To Net: NetName=VBAT Pin=C2MC2-1
+Added Pin To Net: NetName=GND Pin=C2MC2-2
+Added Pin To Net: NetName=VBAT Pin=C2MC3-1
+Added Pin To Net: NetName=GND Pin=C2MC3-2
+Added Pin To Net: NetName=VBAT Pin=C2MC4-1
+Added Pin To Net: NetName=GND Pin=C2MC4-2
+Added Member To Class: ClassName=MC1 Member=Component C2MC1 (C2) approved sub OK
+Added Member To Class: ClassName=MC2 Member=Component C2MC2 (C2) approved sub OK
+Added Member To Class: ClassName=MC3 Member=Component C2MC3 (C2) approved sub OK
+Added Member To Class: ClassName=MC4 Member=Component C2MC4 (C2) approved sub OK

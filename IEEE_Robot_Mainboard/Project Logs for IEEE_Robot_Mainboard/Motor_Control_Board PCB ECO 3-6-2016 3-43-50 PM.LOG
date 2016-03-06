@@ -1,0 +1,16 @@
+Added Component: Designator=SCL_R(RESC1608X55N)
+Added Component: Designator=SCL(JUMP1)
+Added Component: Designator=SDA_R(RESC1608X55N)
+Added Component: Designator=SDA(JUMP1)
+Added Pin To Net: NetName=SCL Pin=SCL-1
+Added Pin To Net: NetName=SCL1 Pin=SCL-2
+Added Pin To Net: NetName=3.3V Pin=SCL_R-1
+Added Pin To Net: NetName=SCL Pin=SCL_R-2
+Added Pin To Net: NetName=SDA Pin=SDA-1
+Added Pin To Net: NetName=SDA1 Pin=SDA-2
+Added Pin To Net: NetName=3.3V Pin=SDA_R-1
+Added Pin To Net: NetName=SDA Pin=SDA_R-2
+Added Member To Class: ClassName=Main Member=Component SCL_R Thick Film
+Added Member To Class: ClassName=Main Member=Component SCL Jumper
+Added Member To Class: ClassName=Main Member=Component SDA_R Thick Film
+Added Member To Class: ClassName=Main Member=Component SDA Jumper

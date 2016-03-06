@@ -1,0 +1,248 @@
+Removed Pin From Net: NetName=VBAT Pin=C2_MC1-1
+Removed Pin From Net: NetName=GND Pin=C2_MC1-2
+Removed Pin From Net: NetName=VBAT Pin=C2_MC2-1
+Removed Pin From Net: NetName=GND Pin=C2_MC2-2
+Removed Pin From Net: NetName=VBAT Pin=C2_MC3-1
+Removed Pin From Net: NetName=GND Pin=C2_MC3-2
+Removed Pin From Net: NetName=VBAT Pin=C2_MC4-1
+Removed Pin From Net: NetName=GND Pin=C2_MC4-2
+Removed Pin From Net: NetName=VBAT Pin=C5_MC1-2
+Removed Pin From Net: NetName=VBAT Pin=C5_MC2-2
+Removed Pin From Net: NetName=VBAT Pin=C5_MC3-2
+Removed Pin From Net: NetName=VBAT Pin=C5_MC4-2
+Removed Member From Class: ClassName=MC1 Member=C2_MC1
+Removed Member From Class: ClassName=MC2 Member=C2_MC2
+Removed Member From Class: ClassName=MC3 Member=C2_MC3
+Removed Member From Class: ClassName=MC4 Member=C2_MC4
+Removed Member From Class: ClassName=MC1 Member=C3_MC1
+Removed Member From Class: ClassName=MC2 Member=C3_MC2
+Removed Member From Class: ClassName=MC3 Member=C3_MC3
+Removed Member From Class: ClassName=MC4 Member=C3_MC4
+Removed Member From Class: ClassName=MC1 Member=C5_MC1
+Removed Member From Class: ClassName=MC2 Member=C5_MC2
+Removed Member From Class: ClassName=MC3 Member=C5_MC3
+Removed Member From Class: ClassName=MC4 Member=C5_MC4
+Removed Member From Class: ClassName=MC1 Member=R54_MC1
+Removed Member From Class: ClassName=MC2 Member=R54_MC2
+Removed Member From Class: ClassName=MC3 Member=R54_MC3
+Removed Member From Class: ClassName=MC4 Member=R54_MC4
+Change Component Designator: OldDesignator=C1_MC1 NewDesignator=C1MC1
+Change Component Designator: OldDesignator=C1_MC2 NewDesignator=C1MC2
+Change Component Designator: OldDesignator=C1_MC3 NewDesignator=C1MC3
+Change Component Designator: OldDesignator=C1_MC4 NewDesignator=C1MC4
+Change Component Designator: OldDesignator=C4_MC1 NewDesignator=C4MC1
+Change Component Designator: OldDesignator=C4_MC2 NewDesignator=C4MC2
+Change Component Designator: OldDesignator=C4_MC3 NewDesignator=C4MC3
+Change Component Designator: OldDesignator=C4_MC4 NewDesignator=C4MC4
+Change Component Designator: OldDesignator=EN_MC1 NewDesignator=ENMC1
+Change Component Designator: OldDesignator=EN_MC2 NewDesignator=ENMC2
+Change Component Designator: OldDesignator=EN_MC3 NewDesignator=ENMC3
+Change Component Designator: OldDesignator=EN_MC4 NewDesignator=ENMC4
+Change Component Designator: OldDesignator=MODE_MC1 NewDesignator=MODEMC1
+Change Component Designator: OldDesignator=MODE_MC2 NewDesignator=MODEMC2
+Change Component Designator: OldDesignator=MODE_MC3 NewDesignator=MODEMC3
+Change Component Designator: OldDesignator=MODE_MC4 NewDesignator=MODEMC4
+Change Component Designator: OldDesignator=OCL_MC1 NewDesignator=OCLMC1
+Change Component Designator: OldDesignator=OCL_MC2 NewDesignator=OCLMC2
+Change Component Designator: OldDesignator=OCL_MC3 NewDesignator=OCLMC3
+Change Component Designator: OldDesignator=OCL_MC4 NewDesignator=OCLMC4
+Change Component Designator: OldDesignator=PH_MC1 NewDesignator=PHMC1
+Change Component Designator: OldDesignator=PH_MC2 NewDesignator=PHMC2
+Change Component Designator: OldDesignator=PH_MC3 NewDesignator=PHMC3
+Change Component Designator: OldDesignator=PH_MC4 NewDesignator=PHMC4
+Change Component Designator: OldDesignator=Q1_MC1 NewDesignator=Q1MC1
+Change Component Designator: OldDesignator=Q1_MC2 NewDesignator=Q1MC2
+Change Component Designator: OldDesignator=Q1_MC3 NewDesignator=Q1MC3
+Change Component Designator: OldDesignator=Q1_MC4 NewDesignator=Q1MC4
+Change Component Designator: OldDesignator=Q2_MC1 NewDesignator=Q2MC1
+Change Component Designator: OldDesignator=Q2_MC2 NewDesignator=Q2MC2
+Change Component Designator: OldDesignator=Q2_MC3 NewDesignator=Q2MC3
+Change Component Designator: OldDesignator=Q2_MC4 NewDesignator=Q2MC4
+Change Component Designator: OldDesignator=Q3_MC1 NewDesignator=Q3MC1
+Change Component Designator: OldDesignator=Q3_MC2 NewDesignator=Q3MC2
+Change Component Designator: OldDesignator=Q3_MC3 NewDesignator=Q3MC3
+Change Component Designator: OldDesignator=Q3_MC4 NewDesignator=Q3MC4
+Change Component Designator: OldDesignator=Q4_MC1 NewDesignator=Q4MC1
+Change Component Designator: OldDesignator=Q4_MC2 NewDesignator=Q4MC2
+Change Component Designator: OldDesignator=Q4_MC3 NewDesignator=Q4MC3
+Change Component Designator: OldDesignator=Q4_MC4 NewDesignator=Q4MC4
+Change Component Designator: OldDesignator=R1_MC1 NewDesignator=R1MC1
+Change Component Designator: OldDesignator=R1_MC2 NewDesignator=R1MC2
+Change Component Designator: OldDesignator=R1_MC3 NewDesignator=R1MC3
+Change Component Designator: OldDesignator=R1_MC4 NewDesignator=R1MC4
+Change Component Designator: OldDesignator=R2_MC1 NewDesignator=R2MC1
+Change Component Designator: OldDesignator=R2_MC2 NewDesignator=R2MC2
+Change Component Designator: OldDesignator=R2_MC3 NewDesignator=R2MC3
+Change Component Designator: OldDesignator=R2_MC4 NewDesignator=R2MC4
+Change Component Designator: OldDesignator=R3_MC1 NewDesignator=R3MC1
+Change Component Designator: OldDesignator=R3_MC2 NewDesignator=R3MC2
+Change Component Designator: OldDesignator=R3_MC3 NewDesignator=R3MC3
+Change Component Designator: OldDesignator=R3_MC4 NewDesignator=R3MC4
+Change Component Designator: OldDesignator=R4_MC1 NewDesignator=R4MC1
+Change Component Designator: OldDesignator=R4_MC2 NewDesignator=R4MC2
+Change Component Designator: OldDesignator=R4_MC3 NewDesignator=R4MC3
+Change Component Designator: OldDesignator=R4_MC4 NewDesignator=R4MC4
+Change Component Designator: OldDesignator=R5_MC1 NewDesignator=R5MC1
+Change Component Designator: OldDesignator=R5_MC2 NewDesignator=R5MC2
+Change Component Designator: OldDesignator=R5_MC3 NewDesignator=R5MC3
+Change Component Designator: OldDesignator=R5_MC4 NewDesignator=R5MC4
+Change Component Designator: OldDesignator=R6_MC1 NewDesignator=R6MC1
+Change Component Designator: OldDesignator=R6_MC2 NewDesignator=R6MC2
+Change Component Designator: OldDesignator=R6_MC3 NewDesignator=R6MC3
+Change Component Designator: OldDesignator=R6_MC4 NewDesignator=R6MC4
+Change Component Designator: OldDesignator=R7_MC1 NewDesignator=R7MC1
+Change Component Designator: OldDesignator=R7_MC2 NewDesignator=R7MC2
+Change Component Designator: OldDesignator=R7_MC3 NewDesignator=R7MC3
+Change Component Designator: OldDesignator=R7_MC4 NewDesignator=R7MC4
+Change Component Designator: OldDesignator=R8_MC1 NewDesignator=R8MC1
+Change Component Designator: OldDesignator=R8_MC2 NewDesignator=R8MC2
+Change Component Designator: OldDesignator=R8_MC3 NewDesignator=R8MC3
+Change Component Designator: OldDesignator=R8_MC4 NewDesignator=R8MC4
+Change Component Designator: OldDesignator=R11_MC1 NewDesignator=R11MC1
+Change Component Designator: OldDesignator=R11_MC2 NewDesignator=R11MC2
+Change Component Designator: OldDesignator=R11_MC3 NewDesignator=R11MC3
+Change Component Designator: OldDesignator=R11_MC4 NewDesignator=R11MC4
+Change Component Designator: OldDesignator=R12_MC1 NewDesignator=R12MC1
+Change Component Designator: OldDesignator=R12_MC2 NewDesignator=R12MC2
+Change Component Designator: OldDesignator=R12_MC3 NewDesignator=R12MC3
+Change Component Designator: OldDesignator=R12_MC4 NewDesignator=R12MC4
+Change Component Designator: OldDesignator=TR1_MC1 NewDesignator=TR1MC1
+Change Component Designator: OldDesignator=TR1_MC2 NewDesignator=TR1MC2
+Change Component Designator: OldDesignator=TR1_MC3 NewDesignator=TR1MC3
+Change Component Designator: OldDesignator=TR1_MC4 NewDesignator=TR1MC4
+Change Component Designator: OldDesignator=U1_MC1 NewDesignator=U1MC1
+Change Component Designator: OldDesignator=U1_MC2 NewDesignator=U1MC2
+Change Component Designator: OldDesignator=U1_MC3 NewDesignator=U1MC3
+Change Component Designator: OldDesignator=U1_MC4 NewDesignator=U1MC4
+Added Component: Designator=C3MC1(CAPC1608X90N)
+Added Component: Designator=C3MC2(CAPC1608X90N)
+Added Component: Designator=C3MC3(CAPC1608X90N)
+Added Component: Designator=C3MC4(CAPC1608X90N)
+Added Component: Designator=C5MC1(CAPC1608X90N)
+Added Component: Designator=C5MC2(CAPC1608X90N)
+Added Component: Designator=C5MC3(CAPC1608X90N)
+Added Component: Designator=C5MC4(CAPC1608X90N)
+Added Component: Designator=R54MC1(RESC1608X55N)
+Added Component: Designator=R54MC2(RESC1608X55N)
+Added Component: Designator=R54MC3(RESC1608X55N)
+Added Component: Designator=R54MC4(RESC1608X55N)
+Added Pin To Net: NetName=VBAT Pin=C5MC1-2
+Added Pin To Net: NetName=VBAT Pin=C5MC2-2
+Added Pin To Net: NetName=VBAT Pin=C5MC3-2
+Added Pin To Net: NetName=VBAT Pin=C5MC4-2
+Change Net Name : Old Net Name=NetC4_MC1_1 New Net Name=NetC4MC1_1
+Change Net Name : Old Net Name=NetC4_MC2_1 New Net Name=NetC4MC2_1
+Change Net Name : Old Net Name=NetC4_MC3_1 New Net Name=NetC4MC3_1
+Change Net Name : Old Net Name=NetC4_MC4_1 New Net Name=NetC4MC4_1
+Change Net Name : Old Net Name=NetEN_MC1_K New Net Name=NetENMC1_K
+Change Net Name : Old Net Name=NetEN_MC2_K New Net Name=NetENMC2_K
+Change Net Name : Old Net Name=NetEN_MC3_K New Net Name=NetENMC3_K
+Change Net Name : Old Net Name=NetEN_MC4_K New Net Name=NetENMC4_K
+Change Net Name : Old Net Name=NetMODE_MC1_1 New Net Name=NetMODEMC1_1
+Change Net Name : Old Net Name=NetMODE_MC2_1 New Net Name=NetMODEMC2_1
+Change Net Name : Old Net Name=NetMODE_MC3_1 New Net Name=NetMODEMC3_1
+Change Net Name : Old Net Name=NetMODE_MC4_1 New Net Name=NetMODEMC4_1
+Change Net Name : Old Net Name=NetPH_MC1_K New Net Name=NetPHMC1_K
+Change Net Name : Old Net Name=NetPH_MC2_K New Net Name=NetPHMC2_K
+Change Net Name : Old Net Name=NetPH_MC3_K New Net Name=NetPHMC3_K
+Change Net Name : Old Net Name=NetPH_MC4_K New Net Name=NetPHMC4_K
+Change Net Name : Old Net Name=NetQ1_MC1_G New Net Name=NetQ1MC1_G
+Change Net Name : Old Net Name=NetQ1_MC2_G New Net Name=NetQ1MC2_G
+Change Net Name : Old Net Name=NetQ1_MC3_G New Net Name=NetQ1MC3_G
+Change Net Name : Old Net Name=NetQ1_MC4_G New Net Name=NetQ1MC4_G
+Change Net Name : Old Net Name=NetQ2_MC1_G New Net Name=NetQ2MC1_G
+Change Net Name : Old Net Name=NetQ2_MC2_G New Net Name=NetQ2MC2_G
+Change Net Name : Old Net Name=NetQ2_MC3_G New Net Name=NetQ2MC3_G
+Change Net Name : Old Net Name=NetQ2_MC4_G New Net Name=NetQ2MC4_G
+Change Net Name : Old Net Name=NetQ3_MC1_G New Net Name=NetQ3MC1_G
+Change Net Name : Old Net Name=NetQ3_MC1_S New Net Name=NetQ3MC1_S
+Change Net Name : Old Net Name=NetQ3_MC2_G New Net Name=NetQ3MC2_G
+Change Net Name : Old Net Name=NetQ3_MC2_S New Net Name=NetQ3MC2_S
+Change Net Name : Old Net Name=NetQ3_MC3_G New Net Name=NetQ3MC3_G
+Change Net Name : Old Net Name=NetQ3_MC3_S New Net Name=NetQ3MC3_S
+Change Net Name : Old Net Name=NetQ3_MC4_G New Net Name=NetQ3MC4_G
+Change Net Name : Old Net Name=NetQ3_MC4_S New Net Name=NetQ3MC4_S
+Change Net Name : Old Net Name=NetQ4_MC1_G New Net Name=NetQ4MC1_G
+Change Net Name : Old Net Name=NetQ4_MC2_G New Net Name=NetQ4MC2_G
+Change Net Name : Old Net Name=NetQ4_MC3_G New Net Name=NetQ4MC3_G
+Change Net Name : Old Net Name=NetQ4_MC4_G New Net Name=NetQ4MC4_G
+Change Net Name : Old Net Name=NetR1_MC1_2 New Net Name=NetR1MC1_2
+Change Net Name : Old Net Name=NetR1_MC2_2 New Net Name=NetR1MC2_2
+Change Net Name : Old Net Name=NetR1_MC3_2 New Net Name=NetR1MC3_2
+Change Net Name : Old Net Name=NetR1_MC4_2 New Net Name=NetR1MC4_2
+Change Net Name : Old Net Name=NetTR1_MC1_W New Net Name=NetTR1MC1_W
+Change Net Name : Old Net Name=NetTR1_MC2_W New Net Name=NetTR1MC2_W
+Change Net Name : Old Net Name=NetTR1_MC3_W New Net Name=NetTR1MC3_W
+Change Net Name : Old Net Name=NetTR1_MC4_W New Net Name=NetTR1MC4_W
+Added Pin To Net: NetName=NetC3MC1_1 Pin=C3MC1-1
+Added Pin To Net: NetName=NetC3MC1_1 Pin=U1MC1-11
+Added Net: Name=NetC3MC1_1
+Added Pin To Net: NetName=NetC3MC1_2 Pin=C3MC1-2
+Added Pin To Net: NetName=NetC3MC1_2 Pin=U1MC1-13
+Added Net: Name=NetC3MC1_2
+Added Pin To Net: NetName=NetC3MC2_1 Pin=C3MC2-1
+Added Pin To Net: NetName=NetC3MC2_1 Pin=U1MC2-11
+Added Net: Name=NetC3MC2_1
+Added Pin To Net: NetName=NetC3MC2_2 Pin=C3MC2-2
+Added Pin To Net: NetName=NetC3MC2_2 Pin=U1MC2-13
+Added Net: Name=NetC3MC2_2
+Added Pin To Net: NetName=NetC3MC3_1 Pin=C3MC3-1
+Added Pin To Net: NetName=NetC3MC3_1 Pin=U1MC3-11
+Added Net: Name=NetC3MC3_1
+Added Pin To Net: NetName=NetC3MC3_2 Pin=C3MC3-2
+Added Pin To Net: NetName=NetC3MC3_2 Pin=U1MC3-13
+Added Net: Name=NetC3MC3_2
+Added Pin To Net: NetName=NetC3MC4_1 Pin=C3MC4-1
+Added Pin To Net: NetName=NetC3MC4_1 Pin=U1MC4-11
+Added Net: Name=NetC3MC4_1
+Added Pin To Net: NetName=NetC3MC4_2 Pin=C3MC4-2
+Added Pin To Net: NetName=NetC3MC4_2 Pin=U1MC4-13
+Added Net: Name=NetC3MC4_2
+Added Pin To Net: NetName=NetC5MC1_1 Pin=C5MC1-1
+Added Pin To Net: NetName=NetC5MC1_1 Pin=U1MC1-10
+Added Net: Name=NetC5MC1_1
+Added Pin To Net: NetName=NetC5MC2_1 Pin=C5MC2-1
+Added Pin To Net: NetName=NetC5MC2_1 Pin=U1MC2-10
+Added Net: Name=NetC5MC2_1
+Added Pin To Net: NetName=NetC5MC3_1 Pin=C5MC3-1
+Added Pin To Net: NetName=NetC5MC3_1 Pin=U1MC3-10
+Added Net: Name=NetC5MC3_1
+Added Pin To Net: NetName=NetC5MC4_1 Pin=C5MC4-1
+Added Pin To Net: NetName=NetC5MC4_1 Pin=U1MC4-10
+Added Net: Name=NetC5MC4_1
+Added Pin To Net: NetName=NetOCLMC1_K Pin=OCLMC1-K
+Added Pin To Net: NetName=NetOCLMC1_K Pin=R54MC1-2
+Added Net: Name=NetOCLMC1_K
+Added Pin To Net: NetName=NetOCLMC2_K Pin=OCLMC2-K
+Added Pin To Net: NetName=NetOCLMC2_K Pin=R54MC2-2
+Added Net: Name=NetOCLMC2_K
+Added Pin To Net: NetName=NetOCLMC3_K Pin=OCLMC3-K
+Added Pin To Net: NetName=NetOCLMC3_K Pin=R54MC3-2
+Added Net: Name=NetOCLMC3_K
+Added Pin To Net: NetName=NetOCLMC4_K Pin=OCLMC4-K
+Added Pin To Net: NetName=NetOCLMC4_K Pin=R54MC4-2
+Added Net: Name=NetOCLMC4_K
+Added Pin To Net: NetName=NetR54MC1_1 Pin=R54MC1-1
+Added Pin To Net: NetName=NetR54MC1_1 Pin=U1MC1-16
+Added Net: Name=NetR54MC1_1
+Added Pin To Net: NetName=NetR54MC2_1 Pin=R54MC2-1
+Added Pin To Net: NetName=NetR54MC2_1 Pin=U1MC2-16
+Added Net: Name=NetR54MC2_1
+Added Pin To Net: NetName=NetR54MC3_1 Pin=R54MC3-1
+Added Pin To Net: NetName=NetR54MC3_1 Pin=U1MC3-16
+Added Net: Name=NetR54MC3_1
+Added Pin To Net: NetName=NetR54MC4_1 Pin=R54MC4-1
+Added Pin To Net: NetName=NetR54MC4_1 Pin=U1MC4-16
+Added Net: Name=NetR54MC4_1
+Added Member To Class: ClassName=MC1 Member=Component C3MC1 (C3) approved sub OK
+Added Member To Class: ClassName=MC2 Member=Component C3MC2 (C3) approved sub OK
+Added Member To Class: ClassName=MC3 Member=Component C3MC3 (C3) approved sub OK
+Added Member To Class: ClassName=MC4 Member=Component C3MC4 (C3) approved sub OK
+Added Member To Class: ClassName=MC1 Member=Component C5MC1 (C5) approved sub OK
+Added Member To Class: ClassName=MC2 Member=Component C5MC2 (C5) approved sub OK
+Added Member To Class: ClassName=MC3 Member=Component C5MC3 (C5) approved sub OK
+Added Member To Class: ClassName=MC4 Member=Component C5MC4 (C5) approved sub OK
+Added Member To Class: ClassName=MC1 Member=Component R54MC1 (R54) Thin Film
+Added Member To Class: ClassName=MC2 Member=Component R54MC2 (R54) Thin Film
+Added Member To Class: ClassName=MC3 Member=Component R54MC3 (R54) Thin Film
+Added Member To Class: ClassName=MC4 Member=Component R54MC4 (R54) Thin Film

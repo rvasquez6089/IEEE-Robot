@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=AD_CH0 Pin=U10-1
+Removed Pin From Net: NetName=AD_CH1 Pin=U10-2
+Removed Pin From Net: NetName=AD_CH2 Pin=U10-3
+Removed Pin From Net: NetName=AD_CH3 Pin=U10-4
+Added Component: Designator=C65(CAPC1608X90N)
+Added Component: Designator=C66(CAPC1608X90N)
+Added Component: Designator=C67(CAPC1608X90N)
+Added Component: Designator=C68(CAPC1608X90N)
+Added Component: Designator=Q6(SOT23-3)
+Added Component: Designator=Q7(SOT23-3)
+Added Component: Designator=Q8(SOT23-3)
+Added Component: Designator=Q9(SOT23-3)
+Added Component: Designator=R67(RESC1608X55N)
+Added Component: Designator=R68(RESC1608X55N)
+Added Component: Designator=R69(RESC1608X55N)
+Added Component: Designator=R70(RESC1608X55N)
+Added Component: Designator=R71(RESC1608X55N)
+Added Component: Designator=R72(RESC1608X55N)
+Added Component: Designator=R73(RESC1608X55N)
+Added Component: Designator=R74(RESC1608X55N)
+Added Component: Designator=SW1(JST_PH_2_B2B)
+Added Component: Designator=SW2(JST_PH_2_B2B)
+Added Component: Designator=SW3(JST_PH_2_B2B)
+Added Component: Designator=SW4(JST_PH_2_B2B)
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=SW1 Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=SW2 Pin=Q7-3
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=SW3 Pin=Q8-3
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=SW4 Pin=Q9-3
+Added Pin To Net: NetName=AD_CH0 Pin=R67-1
+Added Pin To Net: NetName=AD_CH1 Pin=R68-1
+Added Pin To Net: NetName=AD_CH2 Pin=R69-1
+Added Pin To Net: NetName=AD_CH3 Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=GND Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-2
+Added Pin To Net: NetName=GND Pin=R74-2
+Added Pin To Net: NetName=SW1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=SW2 Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=SW3 Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=SW4 Pin=SW4-1
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=NetC65_1 Pin=C65-1
+Added Pin To Net: NetName=NetC65_1 Pin=R70-2
+Added Pin To Net: NetName=NetC65_1 Pin=U10-4
+Added Net: Name=NetC65_1
+Added Pin To Net: NetName=NetC66_1 Pin=C66-1
+Added Pin To Net: NetName=NetC66_1 Pin=R69-2
+Added Pin To Net: NetName=NetC66_1 Pin=U10-3
+Added Net: Name=NetC66_1
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=R68-2
+Added Pin To Net: NetName=NetC67_1 Pin=U10-2
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC68_1 Pin=C68-1
+Added Pin To Net: NetName=NetC68_1 Pin=R67-2
+Added Pin To Net: NetName=NetC68_1 Pin=U10-1
+Added Net: Name=NetC68_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R74-1
+Added Pin To Net: NetName=NetQ6_1 Pin=U3-9
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R73-1
+Added Pin To Net: NetName=NetQ7_1 Pin=U3-10
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R72-1
+Added Pin To Net: NetName=NetQ8_1 Pin=U3-11
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R71-1
+Added Pin To Net: NetName=NetQ9_1 Pin=U3-12
+Added Net: Name=NetQ9_1
+Added Member To Class: ClassName=Main Member=Component C65 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C66 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C67 approved sub OK
+Added Member To Class: ClassName=Main Member=Component C68 approved sub OK
+Added Member To Class: ClassName=Main Member=Component Q6 Si2304DDS
+Added Member To Class: ClassName=Main Member=Component Q7 Si2304DDS
+Added Member To Class: ClassName=Main Member=Component Q8 Si2304DDS
+Added Member To Class: ClassName=Main Member=Component Q9 Si2304DDS
+Added Member To Class: ClassName=Main Member=Component R67 Thick Film
+Added Member To Class: ClassName=Main Member=Component R68 Thick Film
+Added Member To Class: ClassName=Main Member=Component R69 Thick Film
+Added Member To Class: ClassName=Main Member=Component R70 Thick Film
+Added Member To Class: ClassName=Main Member=Component R71 Thick Film
+Added Member To Class: ClassName=Main Member=Component R72 Thick Film
+Added Member To Class: ClassName=Main Member=Component R73 Thick Film
+Added Member To Class: ClassName=Main Member=Component R74 Thick Film
+Added Member To Class: ClassName=Main Member=Component SW1 JST_PH_B2B
+Added Member To Class: ClassName=Main Member=Component SW2 JST_PH_B2B
+Added Member To Class: ClassName=Main Member=Component SW3 JST_PH_B2B
+Added Member To Class: ClassName=Main Member=Component SW4 JST_PH_B2B

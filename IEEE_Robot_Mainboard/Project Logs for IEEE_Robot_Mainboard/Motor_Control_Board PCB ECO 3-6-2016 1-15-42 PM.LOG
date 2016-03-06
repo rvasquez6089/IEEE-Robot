@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=LED8_MC1 NewDesignator=OCL_MC1
+Change Component Designator: OldDesignator=LED8_MC2 NewDesignator=OCL_MC2
+Change Component Designator: OldDesignator=LED8_MC3 NewDesignator=OCL_MC3
+Change Component Designator: OldDesignator=LED8_MC4 NewDesignator=OCL_MC4
+Change Net Name : Old Net Name=NetLED8_MC1_K New Net Name=NetOCL_MC1_K
+Change Net Name : Old Net Name=NetLED8_MC2_K New Net Name=NetOCL_MC2_K
+Change Net Name : Old Net Name=NetLED8_MC3_K New Net Name=NetOCL_MC3_K
+Change Net Name : Old Net Name=NetLED8_MC4_K New Net Name=NetOCL_MC4_K

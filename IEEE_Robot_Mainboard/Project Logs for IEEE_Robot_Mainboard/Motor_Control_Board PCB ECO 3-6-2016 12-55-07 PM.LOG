@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=NetLED0_K Pin=R54-1
+Removed Pin From Net: NetName=GND Pin=R54-2
+Removed Pin From Net: NetName=NetLED1_K Pin=R55-1
+Removed Pin From Net: NetName=NetLED2_K Pin=R56-1
+Removed Pin From Net: NetName=NetLED3_K Pin=R57-1
+Removed Pin From Net: NetName=NetLED4_K Pin=R58-1
+Removed Pin From Net: NetName=NetLED5_K Pin=R59-1
+Removed Pin From Net: NetName=NetLED6_K Pin=R60-1
+Removed Pin From Net: NetName=NetLED7_K Pin=R61-1
+Removed Member From Class: ClassName=Main Member=R54
+Change Component DesignItemId : Designator=R55 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component DesignItemId : Designator=R56 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component DesignItemId : Designator=R57 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component DesignItemId : Designator=R58 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component DesignItemId : Designator=R59 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component DesignItemId : Designator=R60 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component DesignItemId : Designator=R61 Old DesignItemId=RES_200R_0603_5% New DesignItemId=RES_100R_0603_1%
+Change Component Description : Designator=R55 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R56 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R57 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R58 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R59 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R60 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Change Component Description : Designator=R61 Old Description=Resistor SMD chip 200 Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 100 Ohm 0.1W 1% 0603
+Added Component: Designator=LED8_MC1(LED-0603-RED)
+Added Component: Designator=LED8_MC2(LED-0603-RED)
+Added Component: Designator=LED8_MC3(LED-0603-RED)
+Added Component: Designator=LED8_MC4(LED-0603-RED)
+Added Component: Designator=R54_MC1(RESC1608X55N)
+Added Component: Designator=R54_MC2(RESC1608X55N)
+Added Component: Designator=R54_MC3(RESC1608X55N)
+Added Component: Designator=R54_MC4(RESC1608X55N)
+Added Component: Designator=R75(RESC1608X55N)
+Added Pin To Net: NetName=3.3V Pin=LED8_MC1-A
+Added Pin To Net: NetName=3.3V Pin=LED8_MC2-A
+Added Pin To Net: NetName=3.3V Pin=LED8_MC3-A
+Added Pin To Net: NetName=3.3V Pin=LED8_MC4-A
+Added Pin To Net: NetName=NetLED0_K Pin=R55-1
+Added Pin To Net: NetName=NetLED1_K Pin=R56-1
+Added Pin To Net: NetName=NetLED2_K Pin=R57-1
+Added Pin To Net: NetName=NetLED3_K Pin=R58-1
+Added Pin To Net: NetName=NetLED4_K Pin=R59-1
+Added Pin To Net: NetName=NetLED5_K Pin=R60-1
+Added Pin To Net: NetName=NetLED6_K Pin=R61-1
+Added Pin To Net: NetName=NetLED7_K Pin=R75-1
+Added Pin To Net: NetName=GND Pin=R75-2
+Added Pin To Net: NetName=NetLED8_MC1_K Pin=LED8_MC1-K
+Added Pin To Net: NetName=NetLED8_MC1_K Pin=R54_MC1-2
+Added Net: Name=NetLED8_MC1_K
+Added Pin To Net: NetName=NetLED8_MC2_K Pin=LED8_MC2-K
+Added Pin To Net: NetName=NetLED8_MC2_K Pin=R54_MC2-2
+Added Net: Name=NetLED8_MC2_K
+Added Pin To Net: NetName=NetLED8_MC3_K Pin=LED8_MC3-K
+Added Pin To Net: NetName=NetLED8_MC3_K Pin=R54_MC3-2
+Added Net: Name=NetLED8_MC3_K
+Added Pin To Net: NetName=NetLED8_MC4_K Pin=LED8_MC4-K
+Added Pin To Net: NetName=NetLED8_MC4_K Pin=R54_MC4-2
+Added Net: Name=NetLED8_MC4_K
+Added Pin To Net: NetName=NetR54_MC1_1 Pin=R54_MC1-1
+Added Pin To Net: NetName=NetR54_MC1_1 Pin=U1_MC1-16
+Added Net: Name=NetR54_MC1_1
+Added Pin To Net: NetName=NetR54_MC2_1 Pin=R54_MC2-1
+Added Pin To Net: NetName=NetR54_MC2_1 Pin=U1_MC2-16
+Added Net: Name=NetR54_MC2_1
+Added Pin To Net: NetName=NetR54_MC3_1 Pin=R54_MC3-1
+Added Pin To Net: NetName=NetR54_MC3_1 Pin=U1_MC3-16
+Added Net: Name=NetR54_MC3_1
+Added Pin To Net: NetName=NetR54_MC4_1 Pin=R54_MC4-1
+Added Pin To Net: NetName=NetR54_MC4_1 Pin=U1_MC4-16
+Added Net: Name=NetR54_MC4_1
+Added Member To Class: ClassName=MC1 Member=Component LED8_MC1 (LED8) Red
+Added Member To Class: ClassName=MC2 Member=Component LED8_MC2 (LED8) Red
+Added Member To Class: ClassName=MC3 Member=Component LED8_MC3 (LED8) Red
+Added Member To Class: ClassName=MC4 Member=Component LED8_MC4 (LED8) Red
+Added Member To Class: ClassName=MC1 Member=Component R54_MC1 (R54) Thick Film
+Added Member To Class: ClassName=MC2 Member=Component R54_MC2 (R54) Thick Film
+Added Member To Class: ClassName=MC3 Member=Component R54_MC3 (R54) Thick Film
+Added Member To Class: ClassName=MC4 Member=Component R54_MC4 (R54) Thick Film
+Added Member To Class: ClassName=Main Member=Component R75 Thick Film

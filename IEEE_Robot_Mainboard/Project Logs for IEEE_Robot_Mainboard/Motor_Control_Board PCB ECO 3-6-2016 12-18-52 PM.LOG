@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=C2_MC1 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=CAPC_10u_0805_16V
+Change Component DesignItemId : Designator=C2_MC2 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=CAPC_10u_0805_16V
+Change Component DesignItemId : Designator=C2_MC3 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=CAPC_10u_0805_16V
+Change Component DesignItemId : Designator=C2_MC4 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=CAPC_10u_0805_16V
+Change Component Comment : Designator=C2_MC1 Old Comment=10uF New Comment=approved sub OK
+Change Component Comment : Designator=C2_MC2 Old Comment=10uF New Comment=approved sub OK
+Change Component Comment : Designator=C2_MC3 Old Comment=10uF New Comment=approved sub OK
+Change Component Comment : Designator=C2_MC4 Old Comment=10uF New Comment=approved sub OK
+Change Component Description : Designator=C2_MC1 Old Description=CAPACITOR 0805 CERAMIC New Description=Capacitor SMD Cer 10uF 10% 16V X7R 0805
+Change Component Description : Designator=C2_MC2 Old Description=CAPACITOR 0805 CERAMIC New Description=Capacitor SMD Cer 10uF 10% 16V X7R 0805
+Change Component Description : Designator=C2_MC3 Old Description=CAPACITOR 0805 CERAMIC New Description=Capacitor SMD Cer 10uF 10% 16V X7R 0805
+Change Component Description : Designator=C2_MC4 Old Description=CAPACITOR 0805 CERAMIC New Description=Capacitor SMD Cer 10uF 10% 16V X7R 0805
+Change Component Library : Designator=C2_MC1 Old Library=SMD Capacitors 0805.SchLib New Library=PBL - Capacitors.SCHLIB
+Change Component Library : Designator=C2_MC2 Old Library=SMD Capacitors 0805.SchLib New Library=PBL - Capacitors.SCHLIB
+Change Component Library : Designator=C2_MC3 Old Library=SMD Capacitors 0805.SchLib New Library=PBL - Capacitors.SCHLIB
+Change Component Library : Designator=C2_MC4 Old Library=SMD Capacitors 0805.SchLib New Library=PBL - Capacitors.SCHLIB

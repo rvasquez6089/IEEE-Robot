@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=C3_MC1 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C3_MC2 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C3_MC3 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C3_MC4 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C5_MC1 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C5_MC2 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C5_MC3 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component DesignItemId : Designator=C5_MC4 Old DesignItemId=0603C-100NF-25V-X7R-TDK New DesignItemId=CAPC_100n_0603_X7R_50V_10%
+Change Component Footprint: Designator=C3_MC1 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C3_MC2 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C3_MC3 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C3_MC4 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5_MC1 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5_MC2 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5_MC3 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5_MC4 Old Footprint=0603C-GENERIC New Footprint=CAPC1608X90N
+Change Component Comment : Designator=C3_MC1 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C3_MC2 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C3_MC3 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C3_MC4 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C5_MC1 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C5_MC2 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C5_MC3 Old Comment=100nF New Comment=approved sub OK
+Change Component Comment : Designator=C5_MC4 Old Comment=100nF New Comment=approved sub OK

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VBAT Pin=LED8_MC1-A
+Added Pin To Net: NetName=VBAT Pin=LED8_MC2-A
+Added Pin To Net: NetName=VBAT Pin=LED8_MC3-A
+Added Pin To Net: NetName=VBAT Pin=LED8_MC4-A
+Added Room: Name=Main
+Added Room: Name=Power_Supply
