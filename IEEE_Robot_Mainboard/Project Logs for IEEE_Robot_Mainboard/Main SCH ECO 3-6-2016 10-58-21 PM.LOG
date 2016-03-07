@@ -1,0 +1,184 @@
+Replace Part A0_AD JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A0_IO JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A0_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A1_AD JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A1_IO JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A1_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A2_IO JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A2_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A3_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A4_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part A5_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part AD1 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part AD2 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part AD3 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part AD4 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part C14 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C15 CAPC_10u_0805_10V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_10u_0805_10V from PBL - Capacitors.SCHLIB
+Replace Part C16 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C17 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C18 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C19 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C20 CAPC_10u_0805_10V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_10u_0805_10V from PBL - Capacitors.SCHLIB
+Replace Part C21 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C22 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C23 NICHICON_220uF_16V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with NICHICON_220uF_16V from SMD Capacitors Electrolytic.SchLib
+Replace Part C24 NICHICON_220uF_16V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with NICHICON_220uF_16V from SMD Capacitors Electrolytic.SchLib
+Replace Part C25 NICHICON_220uF_16V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with NICHICON_220uF_16V from SMD Capacitors Electrolytic.SchLib
+Replace Part C26 NICHICON_220uF_16V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with NICHICON_220uF_16V from SMD Capacitors Electrolytic.SchLib
+Replace Part C27 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C28 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C29 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C30 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C31 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C32 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C33 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C34 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C42 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C43 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C44 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C45 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C46 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C47 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C48 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C49 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C50 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C51 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C52 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C53 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C54 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C55 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C56 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C57 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C58 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C59 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C60 CAPC_1u_0603_X7R_16V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_1u_0603_X7R_16V_10% from PBL - Capacitors.SCHLIB
+Replace Part C61 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C62 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C63 CAPC_10u_0805_10V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_10u_0805_10V from PBL - Capacitors.SCHLIB
+Replace Part C64 CAPC_10u_0805_10V in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_10u_0805_10V from PBL - Capacitors.SCHLIB
+Replace Part C65 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C66 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C67 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part C68 CAPC_100n_0603_X7R_50V_10% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CAPC_100n_0603_X7R_50V_10% from PBL - Capacitors.SCHLIB
+Replace Part D2 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D3 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D4 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D5 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D6 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D7 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D8 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part D9 BAT54S-SOT23 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BAT54S-SOT23 from SMD Diodes.SchLib
+Replace Part DS1 JST_PH_B4B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B4B from PBL - Connectors.SCHLIB
+Replace Part DS2 JST_PH_B4B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B4B from PBL - Connectors.SCHLIB
+Replace Part DS3 JST_PH_B4B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B4B from PBL - Connectors.SCHLIB
+Replace Part DS4 JST_PH_B4B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B4B from PBL - Connectors.SCHLIB
+Replace Part EN_LV_TRANS1 JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part EN_LV_TRANS2 JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part EN_LV_TRANS3 JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part J8 CONN_SOCKET_2x20P_0.100in  Rpi Female in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with CONN_SOCKET_2x20P_0.100in  Rpi Female from PBL - Connectors.SCHLIB
+Replace Part LED0 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED1 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED2 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED3 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED4 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED5 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED6 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part LED7 LED_SMD_Green_0603_525nm_350mcd in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with LED_SMD_Green_0603_525nm_350mcd from PBL - Light Sources.SCHLIB
+Replace Part MTR1 JST PND 8 PIN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST PND 8 PIN from TH Connectors.SchLib
+Replace Part MTR2 JST PND 8 PIN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST PND 8 PIN from TH Connectors.SchLib
+Replace Part MTR3 JST PND 8 PIN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST PND 8 PIN from TH Connectors.SchLib
+Replace Part MTR4 JST PND 8 PIN in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST PND 8 PIN from TH Connectors.SchLib
+Replace Part OE_PWM JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part Q6 MOSFET_Si2304DDS in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with MOSFET_Si2304DDS from RyanMasterLib.SchLib
+Replace Part Q7 MOSFET_Si2304DDS in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with MOSFET_Si2304DDS from RyanMasterLib.SchLib
+Replace Part Q8 MOSFET_Si2304DDS in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with MOSFET_Si2304DDS from RyanMasterLib.SchLib
+Replace Part Q9 MOSFET_Si2304DDS in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with MOSFET_Si2304DDS from RyanMasterLib.SchLib
+Replace Part R9 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R10 RES_1K5_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K5_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R13 RES_1K5_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K5_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R14 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R15 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R16 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R17 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R18 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R24 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R25 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R26 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R27 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R28 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R29 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R30 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R31 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R32 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R33 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R34 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R35 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R36 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R37 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R38 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R39 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R40 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R41 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R42 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R43 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R44 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R45 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R46 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R47 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R48 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R49 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R50 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R51 RES_1K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R52 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R53 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R55 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R56 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R57 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R58 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R59 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R60 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R61 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R62 RES_1K5_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K5_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R63 RES_1K5_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_1K5_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R64 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R65 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R66 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R67 RES_31K6_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_31K6_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R68 RES_31K6_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_31K6_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R69 RES_31K6_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_31K6_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R70 RES_31K6_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_31K6_0603_1% from PBL - Resistors.SCHLIB
+Replace Part R71 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R72 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R73 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R74 RES_10K_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_10K_0603_5% from PBL - Resistors.SCHLIB
+Replace Part R75 RES_100R_0603_1% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_100R_0603_1% from PBL - Resistors.SCHLIB
+Replace Part S0 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S1 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S2 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S3 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S4 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S5 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S6 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part S7 TACT_SWITCH 6x6 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with TACT_SWITCH 6x6 from PBL - Switches.SCHLIB
+Replace Part SCL JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part SCL_R RES_4K7_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_4K7_0603_5% from PBL - Resistors.SCHLIB
+Replace Part SDA JUMP1 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JUMP1 from PBL - Pads and Jumpers.SCHLIB
+Replace Part SDA_R RES_4K7_0603_5% in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with RES_4K7_0603_5% from PBL - Resistors.SCHLIB
+Replace Part SRV0 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part SRV1 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part SRV2 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part SRV3 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part SRV4 JST_PH_B3B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B3B from PBL - Connectors.SCHLIB
+Replace Part SW1 JST_PH_B2B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B2B from PBL - Connectors.SCHLIB
+Replace Part SW2 JST_PH_B2B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B2B from PBL - Connectors.SCHLIB
+Replace Part SW3 JST_PH_B2B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B2B from PBL - Connectors.SCHLIB
+Replace Part SW4 JST_PH_B2B in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with JST_PH_B2B from PBL - Connectors.SCHLIB
+Replace Part U2 Arduino Pro Mini in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with Arduino Pro Mini from RyanMasterLib.SchLib
+Replace Part U3 PCA9554 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with PCA9554 from IC Digital.SchLib
+Replace Part U4 PCA9685 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with PCA9685 from IC Digital.SchLib
+Replace Part U7 IC_VLEVEL_TRANSLATOR_NVT2008 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with IC_VLEVEL_TRANSLATOR_NVT2008 from PBL - Integrated Circuits.SCHLIB
+Replace Part U8 IC_VLEVEL_TRANSLATOR_NVT2008 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with IC_VLEVEL_TRANSLATOR_NVT2008 from PBL - Integrated Circuits.SCHLIB
+Replace Part U9 IC_VLEVEL_TRANSLATOR_NVT2008 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with IC_VLEVEL_TRANSLATOR_NVT2008 from PBL - Integrated Circuits.SCHLIB
+Replace Part U10 ADS7828 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with ADS7828 from IC Digital.SchLib
+Replace Part U11 BNO_055 in C:\Users\Ryan\Real Documents\Engineering Projects\IEEE-Robot\IEEE_Robot_Mainboard\Main.SchDoc with BNO_055 from RyanMasterLib.SchLib
