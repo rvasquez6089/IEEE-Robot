@@ -1,0 +1,31 @@
+Change Component DesignItemId : Designator=C12 Old DesignItemId=CAPC_47u_1210_10V_X5R_10% New DesignItemId=CAPT_47u_6.3V_0805_6TPU47MSI
+Change Component Footprint: Designator=C12 Old Footprint=CAPC3225X220N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=U4 Old Footprint=SOP65P780X200-28N New Footprint=TSSOP28
+Change Component Comment : Designator=C12 Old Comment=47u New Comment=6TPU47MSI
+Added Component: Designator=3.3V(LED-0603-GREEN)
+Added Component: Designator=5V(LED-0603-GREEN)
+Added Component: Designator=R76(RESC1608X55N)
+Added Component: Designator=R77(RESC1608X55N)
+Added Component: Designator=R78(RESC1608X55N)
+Added Component: Designator=VBAT(LED-0603-GREEN)
+Added Pin To Net: NetName=3.3V Pin=3.3V-A
+Added Pin To Net: NetName=5V Pin=5V-A
+Added Pin To Net: NetName=GND Pin=R76-2
+Added Pin To Net: NetName=GND Pin=R77-2
+Added Pin To Net: NetName=GND Pin=R78-2
+Added Pin To Net: NetName=VBAT Pin=VBAT-A
+Added Pin To Net: NetName=Net3.3V_K Pin=3.3V-K
+Added Pin To Net: NetName=Net3.3V_K Pin=R77-1
+Added Net: Name=Net3.3V_K
+Added Pin To Net: NetName=Net5V_K Pin=5V-K
+Added Pin To Net: NetName=Net5V_K Pin=R76-1
+Added Net: Name=Net5V_K
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=VBAT-K
+Added Net: Name=NetR78_1
+Added Member To Class: ClassName=Power_Supply Member=Component 3.3V Green
+Added Member To Class: ClassName=Power_Supply Member=Component 5V Green
+Added Member To Class: ClassName=Power_Supply Member=Component R76 Thick Film
+Added Member To Class: ClassName=Power_Supply Member=Component R77 Thick Film
+Added Member To Class: ClassName=Power_Supply Member=Component R78 Thin Film
+Added Member To Class: ClassName=Power_Supply Member=Component VBAT Green
