@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=A_ENC3 Pin=R79-2
+Removed Pin From Net: NetName=A_ENC3 Pin=R84-2
+Removed Pin From Net: NetName=A_ENC3 Pin=U2-11
+Removed Pin From Net: NetName=A_ENC3 Pin=U2-A0
+Removed Pin From Net: NetName=A_ENC3 Pin=U9-6
+Removed Pin From Net: NetName=A_ENC3 Pin=U9-9
+Change Net Name : Old Net Name=A_ENC3 New Net Name=A_ENC1
+Added Pin To Net: NetName=A_ENC3 Pin=R79-2
+Added Pin To Net: NetName=A_ENC3 Pin=U2-11
+Added Pin To Net: NetName=A_ENC3 Pin=U9-6
+Added Net: Name=A_ENC3
+Added Pin To Net: NetName=B_ENC1 Pin=R84-2
+Added Pin To Net: NetName=B_ENC1 Pin=U2-A0
+Added Pin To Net: NetName=B_ENC1 Pin=U9-9
+Added Net: Name=B_ENC1
+Added Member To Class: ClassName=A_ENC[1..4] Member=Element[1]: A_ENC
+Added Member To Class: ClassName=B_ENC[1..4] Member=Element[1]: B_ENC

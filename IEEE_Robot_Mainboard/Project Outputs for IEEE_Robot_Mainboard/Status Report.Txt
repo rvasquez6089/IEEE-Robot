@@ -1,11 +1,12 @@
-Output: Simple BOM
-Type  : SimpleBOM
-From  : Variant [[No Variations]] of Project [IEEE_Robot_Mainboard.PrjPcb]
-   Generated File[Motor_Control_Board.BOM]
-   Generated File[Motor_Control_Board.CSV]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IEEE_Robot_Mainboard.PrjPcb]
+   Generated File[Motor_Control_Board.TXT]
+   Generated File[Motor_Control_Board.LDP]
+   Generated File[Motor_Control_Board.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:30:40 PM On 3/6/2016
+Finished Output Generation At 11:42:08 PM On 3/7/2016

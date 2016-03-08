@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=5V Pin=C55-1
+Removed Pin From Net: NetName=GND Pin=C55-2
+Removed Pin From Net: NetName=5V Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C57-2
+Removed Pin From Net: NetName=5V Pin=C59-1
+Removed Pin From Net: NetName=5V Pin=EN_LV_TRANS3-2
+Removed Pin From Net: NetName=GND Pin=R64-2
+Removed Pin From Net: NetName=5V Pin=U9-19
+Removed Member From Class: ClassName=Main Member=C55
+Removed Member From Class: ClassName=Main Member=C57
+Removed Member From Class: ClassName=Main Member=EN_LV_TRANS3
+Removed Member From Class: ClassName=A_ENC[1..4] Member=A_ENC1
+Removed Member From Class: ClassName=B_ENC[1..4] Member=B_ENC1
+Removed Member From Class: ClassName=B_ENC[1..4] Member=B_ENC3
+Change Component DesignItemId : Designator=R64 Old DesignItemId=RES_10K_0603_5% New DesignItemId=RES_200K_0603_5%
+Change Component Description : Designator=R64 Old Description=Resistor SMD chip 10k Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 200K Ohm 0.1W 5% 0603
+Added Component: Designator=R79(RESC1608X55N)
+Added Component: Designator=R80(RESC1608X55N)
+Added Component: Designator=R81(RESC1608X55N)
+Added Component: Designator=R82(RESC1608X55N)
+Added Component: Designator=R83(RESC1608X55N)
+Added Component: Designator=R84(RESC1608X55N)
+Added Component: Designator=R85(RESC1608X55N)
+Added Component: Designator=R86(RESC1608X55N)
+Added Component: Designator=R87(RESC1608X55N)
+Added Component: Designator=R88(RESC1608X55N)
+Added Component: Designator=R89(RESC1608X55N)
+Added Component: Designator=R90(RESC1608X55N)
+Added Component: Designator=R91(RESC1608X55N)
+Added Component: Designator=R92(RESC1608X55N)
+Added Component: Designator=R93(RESC1608X55N)
+Added Component: Designator=R94(RESC1608X55N)
+Added Component: Designator=R95(RESC1608X55N)
+Added Component: Designator=R96(RESC1608X55N)
+Added Component: Designator=R97(RESC1608X55N)
+Added Component: Designator=R98(RESC1608X55N)
+Added Component: Designator=R99(RESC1608X55N)
+Added Component: Designator=R100(RESC1608X55N)
+Added Component: Designator=R101(RESC1608X55N)
+Added Component: Designator=R102(RESC1608X55N)
+Added Component: Designator=R103(RESC1608X55N)
+Added Component: Designator=R104(RESC1608X55N)
+Added Component: Designator=R105(RESC1608X55N)
+Added Component: Designator=R106(RESC1608X55N)
+Added Component: Designator=R107(RESC1608X55N)
+Added Component: Designator=R108(RESC1608X55N)
+Added Component: Designator=R109(RESC1608X55N)
+Added Component: Designator=R110(RESC1608X55N)
+Added Component: Designator=R111(RESC1608X55N)
+Added Component: Designator=R112(RESC1608X55N)
+Added Component: Designator=R113(RESC1608X55N)
+Added Component: Designator=R114(RESC1608X55N)
+Added Component: Designator=R115(RESC1608X55N)
+Added Component: Designator=R116(RESC1608X55N)
+Added Component: Designator=R117(RESC1608X55N)
+Added Component: Designator=R118(RESC1608X55N)
+Added Component: Designator=R119(RESC1608X55N)
+Added Component: Designator=R120(RESC1608X55N)
+Added Pin To Net: NetName=5V Pin=R64-2
+Added Pin To Net: NetName=3.3V Pin=R79-1
+Added Pin To Net: NetName=A_ENC3 Pin=R79-2
+Added Pin To Net: NetName=3.3V Pin=R80-1
+Added Pin To Net: NetName=A_ENC3 Pin=R80-2
+Added Pin To Net: NetName=5V Pin=R81-1
+Added Pin To Net: NetName=NetMTR2_6 Pin=R81-2
+Added Pin To Net: NetName=5V Pin=R82-1
+Added Pin To Net: NetName=NetMTR4_6 Pin=R82-2
+Added Pin To Net: NetName=3.3V Pin=R83-1
+Added Pin To Net: NetName=A_ENC3 Pin=R83-2
+Added Pin To Net: NetName=3.3V Pin=R84-1
+Added Pin To Net: NetName=A_ENC3 Pin=R84-2
+Added Pin To Net: NetName=5V Pin=R85-1
+Added Pin To Net: NetName=NetMTR2_8 Pin=R85-2
+Added Pin To Net: NetName=5V Pin=R86-1
+Added Pin To Net: NetName=NetMTR4_8 Pin=R86-2
+Added Pin To Net: NetName=3.3V Pin=R87-1
+Added Pin To Net: NetName=A_ENC4 Pin=R87-2
+Added Pin To Net: NetName=3.3V Pin=R88-1
+Added Pin To Net: NetName=A_ENC2 Pin=R88-2
+Added Pin To Net: NetName=5V Pin=R89-1
+Added Pin To Net: NetName=NetMTR1_6 Pin=R89-2
+Added Pin To Net: NetName=5V Pin=R90-1
+Added Pin To Net: NetName=NetMTR3_6 Pin=R90-2
+Added Pin To Net: NetName=3.3V Pin=R91-1
+Added Pin To Net: NetName=B_ENC2 Pin=R91-2
+Added Pin To Net: NetName=3.3V Pin=R92-1
+Added Pin To Net: NetName=B_ENC4 Pin=R92-2
+Added Pin To Net: NetName=5V Pin=R93-1
+Added Pin To Net: NetName=NetMTR3_8 Pin=R93-2
+Added Pin To Net: NetName=5V Pin=R94-1
+Added Pin To Net: NetName=NetMTR1_8 Pin=R94-2
+Added Pin To Net: NetName=3.3V Pin=R95-1
+Added Pin To Net: NetName=TRIG_A_1 Pin=R95-2
+Added Pin To Net: NetName=3.3V Pin=R96-1
+Added Pin To Net: NetName=TRIG_A_3 Pin=R96-2
+Added Pin To Net: NetName=5V Pin=R97-1
+Added Pin To Net: NetName=ECHO_B_4 Pin=R97-2
+Added Pin To Net: NetName=5V Pin=R98-1
+Added Pin To Net: NetName=ECHO_B_2 Pin=R98-2
+Added Pin To Net: NetName=3.3V Pin=R99-1
+Added Pin To Net: NetName=ECHO_A_3 Pin=R99-2
+Added Pin To Net: NetName=3.3V Pin=R100-1
+Added Pin To Net: NetName=ECHO_A_1 Pin=R100-2
+Added Pin To Net: NetName=5V Pin=R101-1
+Added Pin To Net: NetName=TRIG_B_2 Pin=R101-2
+Added Pin To Net: NetName=5V Pin=R102-1
+Added Pin To Net: NetName=TRIG_B_4 Pin=R102-2
+Added Pin To Net: NetName=3.3V Pin=R103-1
+Added Pin To Net: NetName=TRIG_A_4 Pin=R103-2
+Added Pin To Net: NetName=3.3V Pin=R104-1
+Added Pin To Net: NetName=TRIG_A_2 Pin=R104-2
+Added Pin To Net: NetName=5V Pin=R105-1
+Added Pin To Net: NetName=ECHO_B_1 Pin=R105-2
+Added Pin To Net: NetName=5V Pin=R106-1
+Added Pin To Net: NetName=ECHO_B_3 Pin=R106-2
+Added Pin To Net: NetName=3.3V Pin=R107-1
+Added Pin To Net: NetName=ECHO_A_4 Pin=R107-2
+Added Pin To Net: NetName=3.3V Pin=R108-1
+Added Pin To Net: NetName=ECHO_A_2 Pin=R108-2
+Added Pin To Net: NetName=5V Pin=R109-1
+Added Pin To Net: NetName=TRIG_B_1 Pin=R109-2
+Added Pin To Net: NetName=5V Pin=R110-1
+Added Pin To Net: NetName=TRIG_B_3 Pin=R110-2
+Added Pin To Net: NetName=3.3V Pin=R111-1
+Added Pin To Net: NetName=SERVO_0 Pin=R111-2
+Added Pin To Net: NetName=5V Pin=R112-1
+Added Pin To Net: NetName=SERVO_B4 Pin=R112-2
+Added Pin To Net: NetName=3.3V Pin=R113-1
+Added Pin To Net: NetName=SERVO_1 Pin=R113-2
+Added Pin To Net: NetName=5V Pin=R114-1
+Added Pin To Net: NetName=SERVO_B3 Pin=R114-2
+Added Pin To Net: NetName=3.3V Pin=R115-1
+Added Pin To Net: NetName=SERVO_2 Pin=R115-2
+Added Pin To Net: NetName=5V Pin=R116-1
+Added Pin To Net: NetName=SERVO_B2 Pin=R116-2
+Added Pin To Net: NetName=3.3V Pin=R117-1
+Added Pin To Net: NetName=SERVO_4 Pin=R117-2
+Added Pin To Net: NetName=5V Pin=R118-1
+Added Pin To Net: NetName=SERVO_B0 Pin=R118-2
+Added Pin To Net: NetName=3.3V Pin=R119-1
+Added Pin To Net: NetName=SERVO_3 Pin=R119-2
+Added Pin To Net: NetName=5V Pin=R120-1
+Added Pin To Net: NetName=SERVO_B1 Pin=R120-2
+Added Pin To Net: NetName=A_ENC3 Pin=U2-10
+Added Pin To Net: NetName=A_ENC3 Pin=U2-A0
+Added Pin To Net: NetName=A_ENC3 Pin=U2-A1
+Added Pin To Net: NetName=A_ENC3 Pin=U9-5
+Added Pin To Net: NetName=A_ENC3 Pin=U9-9
+Added Pin To Net: NetName=A_ENC3 Pin=U9-10
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=R64-1
+Added Pin To Net: NetName=NetC59_1 Pin=U9-19
+Added Pin To Net: NetName=NetC59_1 Pin=U9-20
+Added Net: Name=NetC59_1
+Added Member To Class: ClassName=Main Member=Component R79 Thick Film
+Added Member To Class: ClassName=Main Member=Component R80 Thick Film
+Added Member To Class: ClassName=Main Member=Component R81 Thick Film
+Added Member To Class: ClassName=Main Member=Component R82 Thick Film
+Added Member To Class: ClassName=Main Member=Component R83 Thick Film
+Added Member To Class: ClassName=Main Member=Component R84 Thick Film
+Added Member To Class: ClassName=Main Member=Component R85 Thick Film
+Added Member To Class: ClassName=Main Member=Component R86 Thick Film
+Added Member To Class: ClassName=Main Member=Component R87 Thick Film
+Added Member To Class: ClassName=Main Member=Component R88 Thick Film
+Added Member To Class: ClassName=Main Member=Component R89 Thick Film
+Added Member To Class: ClassName=Main Member=Component R90 Thick Film
+Added Member To Class: ClassName=Main Member=Component R91 Thick Film
+Added Member To Class: ClassName=Main Member=Component R92 Thick Film
+Added Member To Class: ClassName=Main Member=Component R93 Thick Film
+Added Member To Class: ClassName=Main Member=Component R94 Thick Film
+Added Member To Class: ClassName=Main Member=Component R95 Thick Film
+Added Member To Class: ClassName=Main Member=Component R96 Thick Film
+Added Member To Class: ClassName=Main Member=Component R97 Thick Film
+Added Member To Class: ClassName=Main Member=Component R98 Thick Film
+Added Member To Class: ClassName=Main Member=Component R99 Thick Film
+Added Member To Class: ClassName=Main Member=Component R100 Thick Film
+Added Member To Class: ClassName=Main Member=Component R101 Thick Film
+Added Member To Class: ClassName=Main Member=Component R102 Thick Film
+Added Member To Class: ClassName=Main Member=Component R103 Thick Film
+Added Member To Class: ClassName=Main Member=Component R104 Thick Film
+Added Member To Class: ClassName=Main Member=Component R105 Thick Film
+Added Member To Class: ClassName=Main Member=Component R106 Thick Film
+Added Member To Class: ClassName=Main Member=Component R107 Thick Film
+Added Member To Class: ClassName=Main Member=Component R108 Thick Film
+Added Member To Class: ClassName=Main Member=Component R109 Thick Film
+Added Member To Class: ClassName=Main Member=Component R110 Thick Film
+Added Member To Class: ClassName=Main Member=Component R111 Thick Film
+Added Member To Class: ClassName=Main Member=Component R112 Thick Film
+Added Member To Class: ClassName=Main Member=Component R113 Thick Film
+Added Member To Class: ClassName=Main Member=Component R114 Thick Film
+Added Member To Class: ClassName=Main Member=Component R115 Thick Film
+Added Member To Class: ClassName=Main Member=Component R116 Thick Film
+Added Member To Class: ClassName=Main Member=Component R117 Thick Film
+Added Member To Class: ClassName=Main Member=Component R118 Thick Film
+Added Member To Class: ClassName=Main Member=Component R119 Thick Film
+Added Member To Class: ClassName=Main Member=Component R120 Thick Film

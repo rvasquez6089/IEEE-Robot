@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=5V Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=5V Pin=C44-1
+Removed Pin From Net: NetName=5V Pin=C49-1
+Removed Pin From Net: NetName=5V Pin=EN_LV_TRANS1-2
+Removed Pin From Net: NetName=5V Pin=EN_LV_TRANS2-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R50-2
+Removed Pin From Net: NetName=5V Pin=U7-19
+Removed Pin From Net: NetName=5V Pin=U8-19
+Removed Member From Class: ClassName=Main Member=C43
+Removed Member From Class: ClassName=Main Member=EN_LV_TRANS1
+Removed Member From Class: ClassName=Main Member=EN_LV_TRANS2
+Change Component DesignItemId : Designator=R9 Old DesignItemId=RES_10K_0603_5% New DesignItemId=RES_200K_0603_5%
+Change Component DesignItemId : Designator=R50 Old DesignItemId=RES_10K_0603_5% New DesignItemId=RES_200K_0603_5%
+Change Component Description : Designator=R9 Old Description=Resistor SMD chip 10k Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 200K Ohm 0.1W 5% 0603
+Change Component Description : Designator=R50 Old Description=Resistor SMD chip 10k Ohm 0.1W 5% 0603 New Description=Resistor SMD chip 200K Ohm 0.1W 5% 0603
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R50-2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=R50-1
+Added Pin To Net: NetName=NetC44_1 Pin=U7-19
+Added Pin To Net: NetName=NetC44_1 Pin=U7-20
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=R9-1
+Added Pin To Net: NetName=NetC49_1 Pin=U8-19
+Added Pin To Net: NetName=NetC49_1 Pin=U8-20
+Added Net: Name=NetC49_1
+Added Member To Class: ClassName=A_ENC[1..4] Member=Element[3]: A_ENC
